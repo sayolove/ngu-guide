@@ -6,7 +6,7 @@ description: "Too Long; Didn't Read"
 This is a summary version of the guide to be used as a quick reference. 
 Please see the linked sections for more detail about each section.
 
-## Chapter 1: Start - HSB
+## Chapter 1: Start-HSB
 - 30m rb’s (30 minute rebirths) for boss EXP, buy energy in base ratio 1:37.5k:1
 - Get max basic training reduction that you can within 30m
 - Use most expensive augment you can afford/finish within 30m
@@ -15,7 +15,7 @@ Please see the linked sections for more detail about each section.
 - Once you finish Cave gear, switch to 1 hour rb’s to farm HSB (unlocked at Boss 58)
 - Manual kill T1 (GRB) once you have around 1300-1400 p/t
 
-## Chapter 2: T1 - Mega
+## Chapter 2: T1-Mega
 - Upon killing T1, keep doing 1 hour rb’s to farm T1 gear
 - Start investing in time machine (TM) levels and augment upgrades
 - Start with Safety Scissors/Danger Scissors, switch to Milk near AVSP idle
@@ -25,7 +25,7 @@ Please see the linked sections for more detail about each section.
 - After AVSP, after beating boss 100, start the T4 puzzle, then do micro-challenge block (Micro-CBlock: 5 basic challenges, 1 24h challenge), work on the T4 puzzle
 - After Micro, push back up to 100, do a long rebirth (LRB) to kill T4. Farm Mega along the way. Stay in your rebirth until you’ve gotten each ring (magic/might optional)
 
-## Chapter 3: T4 - BAE
+## Chapter 3: T4-BAE
 - After T4, do 24 hour rebirths for beards. BEARd > Neckbeard > Beard Cage
 - Start optimizing gear and resources into one thing (1 hr TM, 1 hr AT, 22 hr NGUs)
 - Spend time in between adventure zones in ITOPOD, start farming PP
@@ -43,7 +43,7 @@ Please see the linked sections for more detail about each section.
 - Farm choco gear after T6v4 at 1.3t power (2-shot, 1.3e12 power)
 - Prep for evil
 
-## Chapter 5: Evil - IDP
+## Chapter 5: Evil-IDP
 - Start with a basic challenge (only 1, it’s free since you have to climb anyways)
 - Early, focus on AT to snipe EV exploder for enough gold to run diggers
 - Push to Boss 125 asap to unlock T7 (farm EV/PPPL gear at one-shot)
@@ -53,7 +53,7 @@ Please see the linked sections for more detail about each section.
 - Run A/D hack until max incriminating evidence, do CBlock3, then switch to adv hack
 - Continue to run 24h’s until close to meta idle/m7v3 stats, then LRB to T8
 
-## Chapter 6: T8 - JRPG
+## Chapter 6: T8-JRPG
 - Start buying R3 exclusively upon killing T8
 - Run daycare focused loadout to improve looty/pendant progress quicker
 - Focus on normal NGUs almost exclusively until typo, evils won’t help much until BB
