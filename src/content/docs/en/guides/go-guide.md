@@ -44,7 +44,7 @@ This mini-guide contains help for Gear / Augments / NGUs. Hacks is covered in th
 
 ### Gear FAQ
 - What priorities should I use?
-    - Priorities can differ based on where you are in the game. If you’re in the first two chats, you might just want to focus Power to grind through most of the early adventure zones. From Chat 3 onwards, it’s suggested to have multiple loadouts that each focus on one priority while running a few Respawn items. Refer to your chat, but some often used priorities include: Respawn, Time Machine, Advanced Training, Energy NGU, NGUs, Drop Chance, Gold Drops, Augmentations, and Move Cooldown / Power.
+    - Priorities can differ based on where you are in the game. If you’re in the first two chapters, you might just want to focus Power to grind through most of the early adventure zones. From Chapter 3 onwards, it’s suggested to have multiple loadouts that each focus on one priority while running a few Respawn items. Refer to your chapter, but some often used priorities include: Respawn, Time Machine, Advanced Training, Energy NGU, NGUs, Drop Chance, Gold Drops, Augmentations, and Move Cooldown / Power.
 
 - Why isn’t this priority working correctly?
     - Check if it’s under another priority that’s using all available slots, or if the priority is set to be using a limited number of accessory slots.
@@ -91,9 +91,9 @@ The Augments tab can be used to determine which augmentation is the most efficie
 9. Ratio: Set to Equal
 10. Look at the final Boost column for each of the augments. Whichever augment has the highest Boost column value is the augment you should be focusing in your rebirths
 
-In the example on the right, Cannon Implant is the best augment to run.
+In the example below, Cannon Implant is the best augment to run.
 
-!! TODO: add augment image example
+![GO Augment Page Example](/goAug.png)
 
 ## NGUs
 
@@ -115,4 +115,4 @@ The NGUs tab can be used to determine how much gain each NGU will give in a cert
 
 In the example image below, we can get 5% gains from running both NGU Magic NGU and NGU Energy NGU, so it would be a good idea to run NGUs for an hour putting all the Energy we would’ve spent on NGUs on NGU Magic NGU. Similarly, we should put our Magic we would’ve spent on NGUs on NGU Energy NGU. However, NGU PP, NGU Adventure B, and NGU Respawn do not provide enough gains to justify running them at this moment.
 
-!! add ngu image example
+![GO NGU Page Example](/goNGU.png)

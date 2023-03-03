@@ -23,7 +23,7 @@ Splitting resources equally among multiple wish slots provides the following rel
 By default, the minimum time to complete a wish is four hours. Once a wish has enough resources to run at minimum wish time, adding more resources to the wish will not increase the speed. The minimum wish time can be reduced to three hours through perks/quirks.
 
 ## Wish Math
-The formula for base wish speed: [add formula here]
+The formula for base wish speed: ![Wish Speed](/wishSpeed.png)
 
 The 6th root applies very harsh diminishing returns to resources allocated, so it’s not advised to overinvest resources into wishes. For example, doubling a single resource will only increase wish speed by 12.5%, regardless of how many resources you’ve allocated.
 

@@ -4,7 +4,7 @@ description: "Chapter 3"
 ---
 
 UUG has been defeated and you’ve now got some swanky Beards   
-Note: There is an alternative method to LRB from Mega to T5, see this guide by Rust
+Note: There is an alternative method to LRB from Mega to T5, see [this guide by Rust](https://docs.google.com/document/d/1HsX70QasNW_4G1FE-xBdCsvIaDvhA01N72qilXshpFc/edit)
 
 ## Beards
 Turn on BEARd, keep BEARd on always outside of challenges
@@ -14,8 +14,8 @@ Turn on BEARd, keep BEARd on always outside of challenges
     - If you obtain a 4th, cycle through magic beards to reach soft caps
 
 ## Rebirths
-After T4, it’s optimal for beard growth to rebirth every 24 hours
-- Focus on a one feature at a time, equipping optimized gear and allocate all resources
+After T4, it’s optimal for beard growth to **rebirth every 24 hours**
+- Focus on a one feature at a time, equipping [optimized gear](/en/guides/go-guide) and allocate all resources
 - Example 24 Hour Rebirth (with suggested GO priorities)
     - First hour: Time Machine, GO priority: Time Machine
     - Second hour: Advanced Training, GO priority: Advanced Training
@@ -42,10 +42,10 @@ NGUs are your primary source of progression from this point forward
 - For Magic NGUs, focus NGU Yggdrasil
 
 ## EXP Spending
-Most of your EXP should be spent on Energy in a Base Power:Cap:Bars ratio of 5:160k:4
+Most of your EXP should be spent on Energy in a Base Power:Cap:Bars ratio of **5:160k:4**
 - Almost all your EXP should go into Energy, only invest in Magic for Ygg auto-activations
     - This changes in CBlock1 post-T5: start dumping in Magic to bring E:M ratio to 5:1
-    - Post-CBlock1, you should be keeping a 5:1 E:M ratio until T6 in next chat
+    - Post-CBlock1, you should be keeping a 5:1 E:M ratio until T6 in next chapter
 - Buy one-time EXP purchases when cheap (10% of Lifetime EXP under Misc Stats)
 
 ## Yggdrasil
@@ -88,7 +88,7 @@ Keep until no longer used by GO:
 
 ## Adventure Zones
 Prioritize finishing any set bonuses you haven’t completed yet (especially Pissed-Off Key)   
-From here on, adventure zones are further apart, spend time in between zones in ITOPOD
+From here on, adventure zones are further apart, **spend time in between zones in ITOPOD**
 - When you can, climb your highest zone to a new 10 floor milestone for first clear bonus
     - Every 10 new floors over 100 gives you 2 PP, clearing floor 200 gives 20 PP
 - If you don’t have gear to farm, farm PP at your optimal floor
@@ -103,7 +103,7 @@ Stay in the LRB killing T4 until you’ve obtained the Rings of Energy and Utili
 
 ### Mini-CBlock
 After T4 AK, push PAWGs to 500 each, then jump into some challenges:
-- If you haven’t done Micro-CBlock in Chat 2, complete your 5 basic challenges
+- If you haven’t done Micro-CBlock in Chapter 2, complete your 5 basic challenges
 - Complete the following challenges for their First Completion Reward:
     - No Rebirth 1, Blind 1, No Time Machine 1
     - Expect the NoRB to take a while, potentially 12+ hours. Can run overnight
@@ -127,13 +127,13 @@ Walderp has 5 forms that must be defeated, with only the final form being his tr
     - The first form of Walderp can be killed before Beardverse, around 800k/400k P/T
     - Each successive form is stronger than the last, up to ~4m/3m for the final form
 - The fight with Walderp cannot be idled, as he has a special mechanic in the fight
-    - For a guide on how to fight Walderp: Appendix: T5 Fight (spoilers)
+    - For a guide on how to fight Walderp: [Secrets & Spoilers: T5 Fight](/en/spoilers/t5-fight)
 - When fighting against Titans, your GO priorities should be Move Cooldown, Power
     - This means you should wear both Ring of Might and Sands of Time for the T5 fight
     - You don’t need Respawn while fighting Titans, so you can take off RoG
     - Once you can kill Titans more easily, you can switch out some Power items for DC
 
-Killing Walderp’s final form unlocks MacGuffins, which is located in the Inventory menu
+Killing Walderp’s final form unlocks [MacGuffins](/en/mechanics/macguffins), which is located in the Inventory menu
 - MacGuffins is the slowest scaling feature in the game, will start out useless
     - MacGuffins will start scaling in Evil Difficulty, and become crucial in Sadistic
 - Killing 1k consecutive enemies in an adventure zone will drop that zone’s guff
@@ -165,12 +165,12 @@ Ideally, you want to obtain a CCoD as soon as possible to utilize the E/M specia
     - Up to the third Troll Challenge, with the fourth optional for a beard slot
     - Up to the third No Time Machine Challenge
     - Finish with a 24 Hour Challenge to climb Number
-- For tips on completing challenges, see Challenge Tips
+- For tips on completing challenges, see [Challenge Tips](/en/mechanics/challenges#challenge-tips)
 - CBlock1 will provide a lot of EXP, dump this into Magic to bring E:M ratio to 5:1
 - After finishing CBlock1, resume 24h rebirths, focusing NGUs and Beards on Adventure
 
 ### Post-CBlock1 Perks/Priority
-After you finish CBlock1, Yggdrasil starts to become a lot more important. After getting Pom 24 in next chat, your big seed income you’re growing will be invested into FoK, which scales off both NGU Yggdrasil and EXP, and has multiple modifiers from ITOPOD Perks, to become a huge source of EXP to push your progression further. It’s finally time for Magic to be important.
+After you finish CBlock1, Yggdrasil starts to become a lot more important. After getting Pom 24 in next chapter, your big seed income you’re growing will be invested into FoK, which scales off both NGU Yggdrasil and EXP, and has multiple modifiers from ITOPOD Perks, to become a huge source of EXP to push your progression further. It’s finally time for Magic to be important.
 - I Want Your Seeds ;)
 - The First Harvest’s The Best
 - Fruit of Knowledge Sucks, 1/5
@@ -185,7 +185,7 @@ After you finish CBlock1, Yggdrasil starts to become a lot more important. After
 - Before starting the LRB to T6, make sure to solve the T6 puzzle and have T6 unlocked
     - Just having the zone unlocked does not mean that T6 has been unlocked
     - To start the T6 puzzle, kill the Guardian in T6’s adventure zone to obtain a clue
-    - For answers, see Appendix: T6 Unlock Puzzle (spoilers)
+    - For answers, see [Secrets & Spoilers: T6 Unlock Puzzle](/en/spoilers/t6-puzzle)
 - Once you are able to idle BDW, you can begin the LRB to T6. Use an Energy Beta potion.
     - Aim to reach 60k-80k levels in NGU Adventure, AT Power/Toughness, 5k in AT Block
     - Wear the BDW helmet while leveling Advanced Training
@@ -194,4 +194,4 @@ After you finish CBlock1, Yggdrasil starts to become a lot more important. After
     - Snipe a full set of Level 1 BAE gear (aim for 1-2% DC to snipe, run NGU DC if needed)
     - Once you have around 650m-700m power, you should be ready to attempt T6
 
-Once you’ve killed T6, you’ve graduated from Chat 3 and can proceed to Chat 4: T6
+Once you’ve killed T6, you’ve graduated from Chapter 3 and can proceed to [Chapter 4: T6](/en/chapters/chapter-4)

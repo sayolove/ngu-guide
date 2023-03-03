@@ -5,7 +5,7 @@ description: "Adventure"
 
 Unlocked after defeating Boss 4, Adventure Mode allows the player to fight enemies for loot.
 
-**Important Note:** The gear you get from farming in adventure is the main way to progress. The progression chats are based on your adventure progress, as adventure mode is the main game.
+**Important Note:** The gear you get from farming in adventure is the main way to progress. The progression chapters are based on your adventure progress, as adventure mode is the main game.
 - Fighting bosses is initially very useful for unlocking new features (until Boss 58)
     - After Boss 58, all features are now locked behind adventure progress, defeating Titans
     - Fighting bosses will continue to unlock new adventure zones and titans
@@ -60,7 +60,7 @@ Whenever an enemy is killed in adventure, they have a chance of dropping loot in
     - From Chocolate World onwards, Drop Chance is cube-rooted
 
 
-Link to Appendix: Adventure Zone List (contains wiki links to zones/sets)
+Link to [Reference Lists: Adventure Zone List](/en/lists/zone-list) (contains wiki links to zones/sets)
 
 ## Titans
 
@@ -77,7 +77,7 @@ Titans are stronger bosses in Adventure, each having their own adventure zone an
 - Being defeated by a Titan sends you to the Safe Zone with no penalties
 - All Titans grow in strength by 1% per attack
 
-For a full list of Titans (Evil/Sad spoilers), see the Appendix: Titan List
+For a full list of Titans (Evil/Sad spoilers), see the [Reference Lists: Titan List](/en/lists/titan-list)
 
 ## ITOPOD
 
@@ -104,7 +104,7 @@ You can enter the ITOPOD through the Adventure tab, using the ‘Enter the ITOPO
 Killing enemies grants a number of progress points towards earning Perk Points (PP)
 - Each enemy grants (200 + floor) progress points, 1 million progress points giving 1 PP
 - PP can be spent in the ITOPOD Perks menu in Adventure for various benefits
-    - Check your progression chat for a list of suggested perk purchases
+    - Check your progression chapter for a list of suggested perk purchases
     - Tip: Right-clicking on a perk will buy as many levels as you can afford
 - Every 10 floors, when you clear the floor for the first time ever, you get a PP reward
     - This reward is multiplied by 10 for every 100th floor, and then increases by 1 for next
@@ -113,10 +113,10 @@ Killing enemies grants a number of progress points towards earning Perk Points (
 - Enemies will occasionally drop EXP, AP, and boosts depending on ITOPOD floor
     - Boosts drop at a flat 14% DC, not affected by DC modifiers/gear. Boosts drop at Level 1
     - Can max out boosts in ITOPOD since you only need half the boost drops
-    - Link to ITOPOD Drops Table (Wiki)
+    - Link to [ITOPOD Drops Table (Wiki)](https://ngu-idle.fandom.com/wiki/ITOPOD)
 
 ### Farming ITOPOD
-In the early game (pre-T4/Chat 3), it’s not advised to spend time farming ITOPOD
+In the early game (pre-T4/Chapter 3), it’s not advised to spend time farming ITOPOD
 - Without significant PP modifiers, respawn, and power, your PP gain is negligible
 - Can climb max floor when you can reach a new 10 floor breakpoint for PP rewards
 

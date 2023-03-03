@@ -241,8 +241,20 @@ table {
 	border-collapse: collapse;
 }
 
+td > img {
+	background-color: white;
+}
+
+p > img {
+	background-color: white;
+}
+
+li > img {
+	background-color: white;
+}
+
 /* Zebra striping */
-tr:nth-of-type(odd) {
+tbody > tr:nth-of-type(odd) {
 	background: var(--theme-bg-hover);
 }
 th {
@@ -253,7 +265,6 @@ th {
 td,
 th {
 	padding: 6px;
-	text-align: left;
 }
 
 pre {

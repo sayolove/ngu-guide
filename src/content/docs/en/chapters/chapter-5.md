@@ -46,19 +46,22 @@ Upon entering Evil, your first objective is to unlock T7. Unlike previous Titans
 - Repeat until you stop gaining 100x number gain per rebirth, usually up to Boss 60-80
 - Beard Priority pre-T7: Fu > Golden > Reverse > Cage > BEARd > LadyBeard > Neck
 
-After you’re done with 30 minute rebirths, switch back to 24 hour rebirths. Here’s a standard 24 hour rebirth schedule while you’re climbing up to Boss 125: (Credit to Pokie’s Early Evil Guide)
+After you’re done with 30 minute rebirths, switch back to 24 hour rebirths. 
 
-0:00-0:30: TM Phase
+### 24HR RB Schedule
+Here’s a standard 24 hour rebirth schedule while you’re climbing up to Boss 125: (Credit to Pokie’s Early Evil Guide)
+
+**0:00-0:30: TM Phase**
 - Optimize for 2 respawn, lock Voodoo Doll, remaining slots in Time Machine
 - Get as many levels in TM as you can within 30 minutes.
 - Yes, it’s normal to only be able to get 0-2 levels early. Welcome to Evil.
 
-0:30-3:00: Augment Phase
+**0:30-3:00: Augment Phase**
 - Replace the weapon in the previous loadout with BDW gun
-- Run your best augment until the 3 hour mark. Check GO to find your best augment
+- Run your best augment until the 3 hour mark. Check [GO](https://gmiclotte.github.io/gear-optimizer/#/) to [find your best augment](/en/guides/go-guide#augments)
 - Put Magic into Blood: Run your best ritual <20m once and cast Counterfeit Gold, then run your best ritual for the remaining time and cast Blood Number. Use Blood Digger
 
-3:00-23:00: Normal NGU / AT Phase
+**3:00-23:00: Normal NGU / AT Phase**
 - Focus on BB’ing normal NGUs, while bringing AT up enough to accomplish goals
 - Wear BDW Head while running AT
 - Run Wandoos AT until cheap to run Wandoos 98
@@ -70,19 +73,19 @@ After you’re done with 30 minute rebirths, switch back to 24 hour rebirths. He
 - Gear: Optimize for 2 respawn, Voodoo Doll, remaining on NGUs
     - Wear BDW Head while running AT
 
-23:00-24:00: Evil NGU Phase
+**23:00-24:00: Evil NGU Phase**
 - Switch to Evil NGUs to take advantage of temp Beard Cage levels
 - Focus NGU Augments and NGU Ygg/EXP to push towards T7
 
 - Eat Fruit of Power A and turn on stat digger to push bosses at the end of each rebirth
 - If you’re at Boss 124 at the end of a RB, you can spend all your FoK EXP on Rich Jerks
     - 100k → 1m can get you another boss to start the T7 Unlock Puzzle a day earlier
-- Upon defeating Boss 125, make a backup save before starting the T7 Unlock Puzzle
+- Upon defeating Boss 125, make a backup save before starting the [T7 Unlock Puzzle](/en/spoilers/t7-puzzle)
 
 After you kill T7 and can reach Boss 125 within an hour, you’ve passed Early Evil!   
 Buy Grey Heart and prep for CBlock 3. Post-CBlock, resume 24h RBs focusing Adventure stats
 - Shorten the Augment Phase as needed to unlock 125 or your next adventure zone
-- For Evil NGUs, use GO’s NGU tab to optimize gains, use a similar NGU priority to last chat
+- For Evil NGUs, use GO’s NGU tab to optimize gains, use a similar NGU priority to last chapter
     - Add an hour of Evil NGUs for each T7 version defeated. After v1, that means 2 hours
 
 ## Hacks
@@ -161,14 +164,14 @@ Unlocked by defeating Boss 100
     - 1-Hit stats: 2.27 Quadrillion (2.27e15) Power
 
 ### T7: Greasy Nerd
-Unlocked by defeating Boss 125 and completing the T7 Unlock Puzzle (spoilers)
+Unlocked by defeating Boss 125 and completing the [T7 Unlock Puzzle](/en/spoilers/t7-puzzle)
 Manual stats: 140T/90T (140e12/90e12), Idle: 300T/200T, AK: 500T/250T/5T
 Can be killed while wearing Choco gear, then T7 gear will be better than EV/PPPL gear
 Killing T7 drops Incriminating Evidence, which can be consumed to unlock R3 and Hacks
 
 ### CBlock 3
 - Prep: Do one day of prep after maxing Incriminating Evidence
-    - Stat Sheets: PudimAzul, Grumia (if you’re only behind in normal NGU, don’t delay)
+    - Stat Sheets: [PudimAzul](https://cdn.discordapp.com/attachments/541988319421005864/981752366317576245/unknown.png), [Grumia](https://cdn.discordapp.com/attachments/886111721041829941/907199794466918400/Grumiacblockt7v2.png) (if you’re only behind in normal NGU, don’t delay)
 - Challenge List:
     - All 100 Level, No Aug, and Basic Challenges
     - Troll 1-2 (1 is mandatory, 2 is strongly recommended but optional)
@@ -213,7 +216,7 @@ Day 1:
 
 Day 2+ onwards:
 - Defeat Boss 166 to unlock T8
-- Complete the T8 Unlock Puzzle (spoilers)
+- Complete the [T8 Unlock Puzzle](/en/spoilers/t8-puzzle)
 - Idle Meta → Snipe IDP → Idle IDP → 1-Shot Max Meta → Idle IDP until T8 kill
 - Wear D20, Tutu, Voodoo Doll while farming to help with eBeard growth
 - Stay in ITOPOD overnight/offline to farm for the Adventure Rich Perk
@@ -227,7 +230,7 @@ Unlocked by defeating Boss 166
 - Mostly used for P/T to snipe T8
 
 ### T8: The Godmother
-Unlocked by defeating Boss 166 and completing the T8 Unlock Puzzle (spoilers)
+Unlocked by defeating Boss 166 and completing the [T8 Unlock Puzzle](/en/spoilers/t8-puzzle)
 - T8’s main mechanic is a series of quick deadly explosions that must be blocked
 - Similar to T5, T8 cannot be idled and must be either manually killed or AutoKilled
 - With AT Block levels (>99%) and the right timing, almost all damage can be mitigated

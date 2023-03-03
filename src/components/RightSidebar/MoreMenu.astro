@@ -1,22 +1,27 @@
 ---
 import ThemeToggleButton from './ThemeToggleButton';
-import { COMMUNITY_INVITE_URL } from '../../consts';
-
-const showMoreSection = Boolean(COMMUNITY_INVITE_URL);
 ---
 
-{showMoreSection && <h2 class="heading">More</h2>}
+<h2 class="heading">Useful Links</h2>
 <ul>
-	{
-		COMMUNITY_INVITE_URL && (
-			<li class={`header-link depth-2`}>
-				<a href={COMMUNITY_INVITE_URL} target="_blank">
-					<img src="/public/discord.svg" width="16px">
-					<span>NGU Idle Discord</span>
-				</a>
-			</li>
-		)
-	}
+	<li class={`header-link depth-2`}>
+		<a href="https://discordapp.com/invite/5revMxD" target="_blank">
+			<img src="/discord.svg" width="16px">
+			<span>NGU Idle Discord</span>
+		</a>
+	</li>
+	<li class={`header-link depth-2`}>
+		<a href="https://gmiclotte.github.io/gear-optimizer/#/" target="_blank">
+			<img src="/go-favicon.png" width="16px">
+			<span>Gear Optimizer</span>
+		</a>
+	</li>
+	<li class={`header-link depth-2`}>
+		<a href="https://ngu-idle.fandom.com/wiki/NGU_Idle_Wiki" target="_blank">
+			<img src="/fandom-favicon.ico" width="16px">
+			<span>NGU Idle Wiki</span>
+		</a>
+	</li>
 </ul>
 <div style="margin: 2rem 0; text-align: center;">
 	<ThemeToggleButton client:visible />

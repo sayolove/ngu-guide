@@ -20,7 +20,7 @@ Ygg go brr
 - Harvest fruits before FoL until they’ve been leveled to 12+, then start eating
 - FoG should be harvested early for seeds, eat when your diggers are capped
 - Poop Pom always, Poop these fruits as they max: FoK, FoL, FoAP, FoPb, FoN, FoR
-- A big benchmark for this chat is getting FoK 24, which scales with NGU Yggdrasil and NGU EXP, along with perks First Harvest, FoK sucks, and FoK still sucks. FoK becomes a large portion of your EXP gains, so getting levels in NGU Yggdrasil/EXP becomes a big focus
+- A big benchmark for this chapter is getting FoK 24, which scales with NGU Yggdrasil and NGU EXP, along with perks First Harvest, FoK sucks, and FoK still sucks. FoK becomes a large portion of your EXP gains, so getting levels in NGU Yggdrasil/EXP becomes a big focus
 
 ## EXP Spending
 - Split EXP evenly into energy/magic (3:1 E:M base), using a pow:cap:bar ratio of 5:160k:4
@@ -28,8 +28,8 @@ Ygg go brr
 - After T6v4 accs and BB NGU Ygg/EXP, return to 3:1 E:M ratio, continue 3:1 into Evil
 
 ## NGU Priority
-As you progress through this chat, your NGU speed will start to get good enough to start getting some decent levels in NGUs like NGU Energy/Magic NGU, Adventure Beta, PP, and Respawn
-- Use the Gear Optimizer’s NGU tab (link to Guide on How to use the GO NGU tab)
+As you progress through this chapter, your NGU speed will start to get good enough to start getting some decent levels in NGUs like NGU Energy/Magic NGU, Adventure Beta, PP, and Respawn
+- Use the [Gear Optimizer’s NGU tab](https://gmiclotte.github.io/gear-optimizer/#/ngus) ([Guide on How to use the GO NGU tab](/en/guides/go-guide#ngus))
     - Set E/M cap, get E/M NGU Speed from Stat Breakdowns (divide by 100 for %), 60 mins
 - In general, you want to prioritize gains in NGU E/M NGU, since it boosts NGU speed
 - Example Priority: (if you meet % bonus change, put all E/M into that NGU for an hour)
@@ -46,7 +46,7 @@ First priority is to finish the Yggdrasil perks, max these in order:
 - Fruit of Knowledge sucks, 1/5
 - Fruit of Knowledge STILL sucks, 1/5
 
-After maxing ygg perks, finish any perks from previous chats, then work through these until v2:
+After maxing ygg perks, finish any perks from previous chapters, then work through these until v2:
 - Finish Boosted Boosts 1
 - Finish Faster NGU Energy
 - Generic Magic Power/Cap Perk 1 (split evenly)
@@ -79,7 +79,7 @@ Optional Evil Prep: (Don’t delay Evil for these)
 - Ooh, Another Digger Slot!
 
 ## Adventure Zones
-Starting from Titan 6, Titans will have 4 versions: Easy (v1), Normal (v2), Hard (v3), Brutal (v4). This chat mostly consists of beating T6 versions: v1 → v2 → CBlock 2 → v3 → v4 → Choco. Expect to spend at least a week between each version of T6, you should be settling into a regular rhythm of 24 hour rebirths focusing NGUs, Yggdrasil, and Beard growth.
+Starting from Titan 6, Titans will have 4 versions: Easy (v1), Normal (v2), Hard (v3), Brutal (v4). This chapter mostly consists of beating T6 versions: v1 → v2 → CBlock 2 → v3 → v4 → Choco. Expect to spend at least a week between each version of T6, you should be settling into a regular rhythm of 24 hour rebirths focusing NGUs, Yggdrasil, and Beard growth.
 
 - T6 LRB: Stay in LRB until T6 weapon drop and Baby Adv Quirk, then resume 24 hr rebirths
 - Post-v1: Farm T6 gear and ITOPOD, NGU Adv/DC, Ygg/EXP, BEARd/Neckbeard until v2

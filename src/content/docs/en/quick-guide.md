@@ -18,7 +18,7 @@ Please see the linked sections for more detail about each section.
 ## Chapter 2: T1-Mega
 - Upon killing T1, keep doing 1 hour rb’s to farm T1 gear
 - Start investing in time machine (TM) levels and augment upgrades
-- Start with Safety Scissors/Danger Scissors, switch to Milk near AVSP idle
+    - Start with Safety Scissors/Danger Scissors, switch to Milk near AVSP idle
 - From Clock to AVSP, the adv zones are close together, so you can snipe the next set before you max your previous set. Can rush to AVSP, then max everything
 - After T2 feature unlock, your rebirth length should be as long as your highest fruit tier
 - Fruits: FoG 2 → FoPa 1 → FoA 1 → Pom 1 → FoPa 2 → FoG 4 → Pom 3 → FoG 10
@@ -32,7 +32,7 @@ Please see the linked sections for more detail about each section.
 - Focus NGUs: split energy in half between ADV/DC, for magic focus YGG
 - T4 → Mini-CBlock → Beardverse → T5 → CBlock1 → BDW/BAE → LRB for T6
 - FoG 10 → Pom 5 → FoPa 1 + FoA 1 + FoK 1 + FoL 1 → Pom 10 → FoL 5 
-- After troll challenge 3: FoG 24 → Pom 24
+    - After troll challenge 3: FoG 24 → Pom 24
 
 ## Chapter 4: T6
 - Stay in T6 LRB until you get the T6 weapon drop
@@ -48,7 +48,7 @@ Please see the linked sections for more detail about each section.
 - Early, focus on AT to snipe EV exploder for enough gold to run diggers
 - Push to Boss 125 asap to unlock T7 (farm EV/PPPL gear at one-shot)
 - Run normal NGU’s for first 23h, run evil NGU’s for the last hour of each rb
-- For each version of T7 defeated, run one more hour of evil’s
+    - For each version of T7 defeated, run one more hour of evil’s
 - Don’t buy R3 until post-T8 (if the bar flicker is annoying, buy up to 5.1 R3 speed)
 - Run A/D hack until max incriminating evidence, do CBlock3, then switch to adv hack
 - Continue to run 24h’s until close to meta idle/m7v3 stats, then LRB to T8

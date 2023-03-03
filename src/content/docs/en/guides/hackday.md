@@ -5,11 +5,11 @@ description: "HACK-ACK-ACK"
 
 Endorm Solor’s quick hackday planning guide
 
-!! add endorm hackday image guide
+![Endorm Solor Hackday Guide](/hackday.png)
 
 *Thanks to CBD for his original hackday guide that this guide is mostly based on*
 
-1. Make sure all of your gear in Gear Optimizer is updated
+1. Make sure all of your gear in [Gear Optimizer](https://gmiclotte.github.io/gear-optimizer) is updated
     - If any of your gear isn’t boosted, boost it before continuing
 2. Save your currently equipped gear as a loadout in Gear Optimizer
 3. Set your gear priority to Hacks/Infinity and optimize

@@ -60,7 +60,7 @@ There are multiple sources of poop:
 | Watermelon             | 20B Magic         | 30               | T^2 x 50k    |
 | Fruit of MacGuffin b   | 100B Energy       | 8                | T^2 x 100k   |
 | Fruit of Quirks        | 40B Magic         | 7                | T^2 x 25k    |
-| Fruit of <type> Mayo   | 100q Energy/Magic | 10               | T^2 x 250k   |
+| Fruit of \<type\> Mayo | 100q Energy/Magic | 10               | T^2 x 250k   |
 
 ## Fruit Eating Bonus
 
@@ -79,6 +79,6 @@ There are multiple sources of poop:
 - Watermelon (Melon) - Grants seeds.
 - Fruit of MacGuffin b (GuffB) - Raises the level of all equipped MacGuffins
 - Fruit of Quirks (FoQ) - Grants Quirk Points (QP)
-- Fruit of <type> Mayo - Grants mayo progress for the respective mayo type
+- Fruit of \<type\> Mayo - Grants mayo progress for the respective mayo type
 
 For exact formulas of fruit rewards, [see the wiki](https://ngu-idle.fandom.com/wiki/Yggdrasil#Nerdy_Formulas).

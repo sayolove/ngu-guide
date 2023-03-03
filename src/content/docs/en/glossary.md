@@ -78,7 +78,7 @@ description: "Dictionary of jargon"
 - GuffB - May refer to Fruit of MacGuffin Beta or Blood MacGuffin Beta
 
 ## H
-- HD - Hack Day - A strategy for Hacks for Chat 6+, focusing on Hacks exclusively for a day with R3 beta/delta potions, a full Hack loadout, and planned gains using GO. Utilized as it provides a 7x improvement to specialize hacks/wishes vs splitting half in each
+- HD - Hack Day - A strategy for Hacks for Chapter 6+, focusing on Hacks exclusively for a day with R3 beta/delta potions, a full Hack loadout, and planned gains using GO. Utilized as it provides a 7x improvement to specialize hacks/wishes vs splitting half in each
 - HP - Hit Points/Health Points
 - HSB - High Security Base - An adventure zone, unlocked after Boss 58 in Normal
 
@@ -102,8 +102,8 @@ description: "Dictionary of jargon"
 - Majors - Major Quests - A type of quest in Questing that grants more QP
 - Max - Getting an item to Level 100
     - It is not required to max the boosts for an item to be considered Maxed
-- Micro-CBlock - A challenge block after beating Boss 100 in Chat 2. Composed of 5 basic challenges and 1 24H challenge
-- Mini-CBlock - A challenge block after beating T4 in Chat 3
+- Micro-CBlock - A challenge block after beating Boss 100 in Chapter 2. Composed of 5 basic challenges and 1 24H challenge
+- Mini-CBlock - A challenge block after beating T4 in Chapter 3
 - Minors - Minor Quests - A type of quest in Questing that grants less QP
 - mNGU - Magic NGU
 - MS - Milestone - A milestone in the Hacks feature

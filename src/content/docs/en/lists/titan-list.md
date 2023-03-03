@@ -3,22 +3,22 @@ title: "Titan List"
 description: "Titans"
 ---
 
-| \# | Titan Name               | Boss \#  | Base Cooldown | Set                                | Feature      |
-| :- | :----------------------: | :------: | :-----------: | :--------------------------------: | :----------: |
-| 1  | Gordon Ramsay Bolton     | 58       | 1 hr          | GRB Set                            | NGU          |
-| 2  | Grand Corrupted Tree     | 66       | 1 hr          | None                               | Yggdrasil    |
-| 3  | Jake from Accounting     | 82       | 2 hr          | Jake Set                           | Gold Diggers |
-| 4  | UUG, The Unmentionable   | 100      | 2 hr          | UUG’s Rings Set                    | Beards       |
-| 5  | Walderp                  | 116      | 3 hr          | Wanderer’s Set <br> S’rerednaW Set | MacGuffins   |
-| 6  | The Beast                | 132      | 3.5 hr        | Slimy Set                          | Questing     |
-| 7  | Greasy Nerd              | Evil 125 | 4.5 hr        | Greasy Nerd Set                    | Hacks        |
-| 8  | The Godmother            | Evil 166 | 5 hr          | Mobster Set                        | Wishes       |
-| 9  | The Exile                | Evil 190 | 5.5 hr        | Exile Set                          | Cards        |
-| 10 | IT HUNGERS               | Sad 175  | 6.5 hr        | Space Set                          | Cooking      |
-| 11 | ROCK LOBSTER             | Sad 224  | 7 hr          | Rock Set                           |              |
-| 12 | AMALGAMATE               | Sad 248  | 7:13:20       | Amalgamate Set                     |              |
-| 13 | TIPPI THE TUTORIAL MOUSE | Sad 295  |               |                                    |              |
-| 14 | THE TRAITOR              | Sad 300  |               |                                    |              |
+| \# | Titan Name                                                                            | Boss \#  | Base Cooldown | Set                                                                                                                                               | Feature                                       |
+| :- | :-----------------------------------------------------------------------------------: | :------: | :-----------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------: |
+| 1  | [Gordon Ramsay Bolton](https://ngu-idle.fandom.com/wiki/Gordon_Ramsay_Bolton)         | 58       | 1 hr          | [GRB Set](https://ngu-idle.fandom.com/wiki/GRB_(set))                                                                                             | [NGU](/en/mechanics/ngu)                      |
+| 2  | [Grand Corrupted Tree](https://ngu-idle.fandom.com/wiki/Grand_Corrupted_Tree)         | 66       | 1 hr          |                                                                                                                                                   | [Yggdrasil](/en/mechanics/yggdrasil)          |
+| 3  | [Jake from Accounting](https://ngu-idle.fandom.com/wiki/Jake_From_Accounting)         | 82       | 2 hr          | [Jake Set](https://ngu-idle.fandom.com/wiki/Jake_(set))                                                                                           | [Gold Diggers](/en/mechanics/gold-diggers)    |
+| 4  | [UUG, The Unmentionable](https://ngu-idle.fandom.com/wiki/UUG,_The_Unmentionable)     | 100      | 2 hr          | [UUG’s Rings Set](https://ngu-idle.fandom.com/wiki/UUG%27s_rings_(set))                                                                           | [Beards](/en/mechanics/beards)                |
+| 5  | [Walderp](https://ngu-idle.fandom.com/wiki/Walderp)                                   | 116      | 3 hr          | [Wanderer’s Set](https://ngu-idle.fandom.com/wiki/Wanderer%27s_(set)) <br> [S’rerednaW Set](https://ngu-idle.fandom.com/wiki/S%27rerednaW_(set))  | [MacGuffins](/en/mechanics/macguffins)        |
+| 6  | [The Beast](https://ngu-idle.fandom.com/wiki/The_Beast)                               | 132      | 3.5 hr        | [Slimy Set](https://ngu-idle.fandom.com/wiki/Slimy_(set))                                                                                         | [Questing](/en/mechanics/questing)            |
+| 7  | [Greasy Nerd](https://ngu-idle.fandom.com/wiki/Greasy_Nerd)                           | Evil 125 | 4.5 hr        | [Greasy Nerd Set](https://ngu-idle.fandom.com/wiki/Greasy_Nerd_(set))                                                                             | [Hacks](/en/mechanics/hacks)                  |
+| 8  | [The Godmother](https://ngu-idle.fandom.com/wiki/The_Godmother)                       | Evil 166 | 5 hr          | [Mobster Set](https://ngu-idle.fandom.com/wiki/Category:Mobster_(set))                                                                            | [Wishes](/en/mechanics/wishes)                |
+| 9  | [The Exile](https://ngu-idle.fandom.com/wiki/The_Exile)                               | Evil 190 | 5.5 hr        | [Exile Set](https://ngu-idle.fandom.com/wiki/Exile_(set))                                                                                         | [Cards](/en/mechanics/cards)                  |
+| 10 | [IT HUNGERS](https://ngu-idle.fandom.com/wiki/IT_HUNGERS)                             | Sad 175  | 6.5 hr        | [Space Set](https://ngu-idle.fandom.com/wiki/Space_(set))                                                                                         | [Cooking](/en/mechanics/cooking)              |
+| 11 | [ROCK LOBSTER](https://ngu-idle.fandom.com/wiki/ROCK_LOBSTER)                         | Sad 224  | 7 hr          | [Rock Set](https://ngu-idle.fandom.com/wiki/Rock_(set))                                                                                           |                                               |
+| 12 | [AMALGAMATE](https://ngu-idle.fandom.com/wiki/AMALGAMATE)                             | Sad 248  | 7:13:20       | [Amalgamate Set](https://ngu-idle.fandom.com/wiki/Category:Amalgamate_(set))                                                                      |                                               |
+| 13 | [TIPPI THE TUTORIAL MOUSE](https://ngu-idle.fandom.com/wiki/TIPPI_THE_TUTORIAL_MOUSE) | Sad 295  |               |                                                                                                                                                   |                                               |
+| 14 | [THE TRAITOR](https://ngu-idle.fandom.com/wiki/THE_TRAITOR_(titan))                   | Sad 300  |               |                                                                                                                                                   |                                               |
 
 ## Recommended stats
 

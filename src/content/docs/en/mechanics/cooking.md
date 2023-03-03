@@ -25,5 +25,5 @@ Notes:
     - Cooking unlocks with a full bank, so you can eat two meals immediately
 - Cooking has a bug that allows for players to trigger the ending without completing THE END. To replicate the bug: Click the + in for the top right ingredient, press the right arrow on your keyboard once, then press enter.
 
-History   
+**History**   
 For years, Cooking had just been a meme stat, initially added to the GRB set as a way to nerf the specials. People would joke in the Discord about the existence of a Cooking mini-game, eventually leading to pokie’s [Cooking Mini-Game Guide](https://imgur.com/a/vFSE8mX).

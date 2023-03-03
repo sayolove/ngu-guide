@@ -37,77 +37,30 @@ Here are some more specific wishes to look out for:
 - Keep E/M at 5/160k/4 until you can BB Beards for that resource, then switch to 4/150k/1
     - Switching ratio, you’ll have more bars than you need. Ignore bars, just focus pow/cap
 - R3: 4/150k/1
-    - Ratio calculations (why 4/150k/1 is optimal) by postscripter
+    - [Ratio calculations (why 4/150k/1 is optimal) by postscripter](https://docs.google.com/document/d/1jfizTPWhP_qZGzY4cLjrjnfb4_CxW0pECrofe2vGyR0/edit)
 
 ## EXP Spending
 - Buy only R3 until you complete HackDay 1 (HD1)
 - Post-HD1, bring your E/M up to 3M Energy Power / 1M Magic Power, with Cap/Bars in ratio
 - After 3M/1M, go back to only buying R3 until you complete Hack Day 2 (HD2)
 - Post-HD2, bring E/M up to 6M/2M (double E/M from post-HD1)
-- Then, focus everything into R3 until next chat
+- Then, focus everything into R3 until next chapter
 
 - Optimal Order to buy R3 Speed/Bars: 10 Speed → 4 Bars → 12.5 Speed → 5 Bars → 16.7 Speed → 7 Bars → 25 Speed → 9 Bars → 50 Speed 
 
 ### Beard Speed Required for 24 Hour BB
-(1e15 = 1 Quadrillion, 1e18 = 1 Quintillion)
-Beard/Banks%
-50%
-55%
-60%
-65%
-70%
-75%
-Fu Manchu
-8.64e15
-9.6e15
-1.08e16
-1.23e16
-1.44e16
-1.73e16
-Neckbeard
-2.59e16
-2.88e16
-3.24e16
-3.7e16
-4.32e16
-5.18e16
-Reverse Hitler
-2.59e16
-2.88e16
-3.24e16
-3.7e16
-4.32e16
-5.18e16
-Beard Cage
-8.64e16
-9.6e16
-1.08e17
-1.23e17
-1.44e17
-1.73e17
-LadyBeard
-8.64e16
-9.6e16
-1.08e17
-1.23e17
-1.44e17
-1.73e17
-BEARd
-2.59e17
-2.88e17
-3.24e17
-3.7e17
-4.32e17
-5.18e17
-Golden Beard
-2.59e17
-2.88e17
-3.24e17
-3.7e17
-4.32e17
-5.18e17
 
-Credit to Endorm Solar
+Credit to Endorm Solar (1e15 = 1 Quadrillion, 1e18 = 1 Quintillion)
+
+| Beard/Banks%   | 50%     | 55%     | 60%     | 65%     | 70%     | 75%     |
+| :------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| Fu Manchu      | 8.64e15 | 9.6e15  | 1.08e16 | 1.23e16 | 1.44e16 | 1.73e16 |
+| Neckbeard      | 2.59e16 | 2.88e16 | 3.24e16 | 3.7e16  | 4.32e16 | 5.18e16 |
+| Reverse Hitler | 2.59e16 | 2.88e16 | 3.24e16 | 3.7e16  | 4.32e16 | 5.18e16 |
+| Beard Cage     | 8.64e16 | 9.6e16  | 1.08e17 | 1.23e17 | 1.44e17 | 1.73e17 |
+| LadyBeard      | 8.64e16 | 9.6e16  | 1.08e17 | 1.23e17 | 1.44e17 | 1.73e17 |
+| BEARd          | 2.59e17 | 2.88e17 | 3.24e17 | 3.7e17  | 4.32e17 | 5.18e17 |
+| Golden Beard   | 2.59e17 | 2.88e17 | 3.24e17 | 3.7e17  | 4.32e17 | 5.18e17 |
 
 ## Hack Days (HD)
 Hack Days are an approach to optimize Hacks by focusing on them for only one day every few weeks, wearing exclusively Hack items and using R3 Beta/Delta potions. Hack Days are significantly more efficient than running Hacks casually in 24 hour rebirths, as utilizing both R3 B/D pots (w/ Blue Heart maxed) will give you a 7.26x improvement in Hack Speed. Combined with a full Hack loadout, this allows you to gain a ton of Hack levels
@@ -115,7 +68,7 @@ Hack Days are an approach to optimize Hacks by focusing on them for only one day
 - The first HackDay is done after Typo snipe, CBlock 4, and having at least 50 R3 Power
 - Utilizing Hack Days can make the game feel slower in the time before each Hack Day, especially if you compare to players that aren’t doing Hack Days and run Hacks casually. Each Hack Day provides a dramatic increase for almost every feature, which will propel you past any players that aren’t doing Hack Days that were passing you before because the Hack gains you obtained from doing Hack Days will surpass the levels they got casually.
 - Hack Days require planning in Gear Optimizer to get the most out of each Hack Day
-- See Appendix: Hackday Planning Guide for a guide on how to plan a Hack Day
+- See [Guide: Hackday Planning Guide](/en/guides/hackday) for a guide on how to plan a Hack Day
 - Note: Delta potions / Advance don’t work offline, so avoid going offline during Hack Days
 - If you need to go offline, you should extend your Hack Days to utilize the full delta pot
 
@@ -182,7 +135,7 @@ After mNGU, the order becomes less rigid, but a rough order: Gold > DC > EBar > 
     - Post-HD1: Aim to BB the first 5 Evil eNGUs and Ygg/EXP. Any excess E/M should be put into wishes, along with all of your R3. For the most part, you’ll be putting all your R3 into Wishes outside of Hackdays, then during Hackdays you’ll only focus Hacks.
 
 - What loadout should I optimize for?
-    - Entire Chat: Lock Voodoo Doll until you can BB Beards all rebirth without it
+    - Entire Chapter: Lock Voodoo Doll until you can BB Beards all rebirth without it
     - Pre-Typo: Optimize for 3 Respawn, 2 Daycare, remaining Wishes
     - During Hackdays: Optimize only for Hacks
     - Post-HD: Optimize for 3 Respawn, 2 Daycare, 1-2 NGU, remaining Wishes
@@ -202,7 +155,7 @@ After mNGU, the order becomes less rigid, but a rough order: Gold > DC > EBar > 
     - No
 
 - Not even a super active way to progress faster?
-    - You could rebirth every hour in the hopes of getting Money Pit shockwaves to level up Pendants / Looties. See this Pit Run Guide by Deceptive Thinker
+    - You could rebirth every hour in the hopes of getting Money Pit shockwaves to level up Pendants / Looties. See this [Pit Run Guide by Deceptive Thinker](https://docs.google.com/document/d/e/2PACX-1vTZSvoGsIWcqlQwVqlucTOxbkgj39J_NVY02o2yCfTqdjg8FVCxKhN_O-DCmmT8dhdoA4Bm5GTvix_z/pub)
 
 - When should I do Hackdays?
     - The first Hackday is after sniping/obtaining one of each item from Typo. The order typically goes Typo Snipe → CBlock 4 → Hackday 1
@@ -248,7 +201,7 @@ After mNGU, the order becomes less rigid, but a rough order: Gold > DC > EBar > 
 
 ### CBlock 4
 - After obtaining 1 of each Typo item, do a little bit of prep, then jump into CBlock 4
-    - Prep Sheets from Discord players: dcnairb, Thaunatas, goplayer7
+    - Prep Sheets from Discord players: [dcnairb](https://cdn.discordapp.com/attachments/698513550460846111/1013910421528379392/cb4_guide_v2.png), [Thaunatas](https://cdn.discordapp.com/attachments/698513550460846111/1014025603109892126/unknown.png), [goplayer7](https://cdn.discordapp.com/attachments/698513550460846111/1013912977184919732/goplayer_cblock4.PNG)
 - Challenge List (lists the final completion number for each challenge type):
     - Any challenges you missed from CBlock 3
     - NoRB 10 (only 8 are necessary to get T9’s timer down to 1 hour)
@@ -261,12 +214,14 @@ After mNGU, the order becomes less rigid, but a rough order: Gold > DC > EBar > 
 - The important challenges are Troll 5 and NoNGU 7, which provide Hack Speed for HD1
 - Recommended Loadout: EM Bars are very important for this CBlock to get Magic Beards working ASAP. Wear your best Aug item (Meeple), your best Wandoos item (Cocktail), then as much EMPC while maintaining a 3 minute cap time.
 
+![CBlock 4 Loadout](/cblock4gear.png)
+
 ### Hack Day 1
-- The day has finally arrived! Plan out your Hackday using the Hackday Planning Guide
+- The day has finally arrived! Plan out your Hackday using the [Guide: Hackday Planning Guide](/en/guides/hackday)
 - Is there anything else I should do first?
     - If you haven’t completed Troll 5 or NoNGU 7, it’s advised to complete those first
     - If you’re a few days away from A6P, it’s worth delaying for the Hack Speed boost
-    - If you want to accelerate your A6P before Hackday, consider Pit Runs
+    - If you want to accelerate your A6P before Hackday, consider [Pit Runs](https://docs.google.com/document/d/e/2PACX-1vTZSvoGsIWcqlQwVqlucTOxbkgj39J_NVY02o2yCfTqdjg8FVCxKhN_O-DCmmT8dhdoA4Bm5GTvix_z/pub)
 
 ### Post-HD1
 - Upon completing HD1, your next major objective is to reach T9v1
@@ -305,9 +260,9 @@ After mNGU, the order becomes less rigid, but a rough order: Gold > DC > EBar > 
 
 ### T9 LRB
 - After JRPG snipe/Fad max, you’ll start your Long Rebirth to T9 with Hack Day 2
-    - Reminder: Hackday Planning Guide. Planning should be similar to your HD1 plan, except you should have a full Hack loadout and you can add an hour of Wish Hack
+    - Reminder: [Guide: Hackday Planning Guide](/en/guides/hackday). Planning should be similar to your HD1 plan, except you should have a full Hack loadout and you can add an hour of Wish Hack
 - Start the LRB with using all 3 E/M/R3 Beta potions
-- Post-HD2: Max Fad/JRPG sets, complete the T9 Unlock Puzzle, use all your Major Quests
+- Post-HD2: Max Fad/JRPG sets, complete the [T9 Unlock Puzzle](/en/spoilers/t9-puzzle), use all your Major Quests
     - Can get the 20k QP Accessory Slot with your post-HD2 QP
 - Recommended Loadout priorities: Respawn / Daycare / NGU / Wishes
     - Many people choose to complete the AT wish during this time
@@ -319,7 +274,7 @@ After mNGU, the order becomes less rigid, but a rough order: Gold > DC > EBar > 
     - If you want to get better at manual fighting, T9 can be a great opportunity to practice
     - If you don’t, just wait until you have higher stats
 - Rust defeated T9 with 15 Sext / 7 Sext (15e21 / 7e21) P/T without JRPG max
-    - Video: NGU Idle T9v1 1.5/0.7 (without JRPG Max)
+    - [Video: NGU Idle T9v1 1.5/0.7 (without JRPG Max)](https://www.youtube.com/watch?v=sPZl9v8gCTM)
 
 Some manual fighting tips:
 - Before the fight, use Parry / Charge in the Safe Zone, then wait until all skills are available
@@ -334,4 +289,4 @@ Some manual fighting tips:
 - When Mega Buff runs out, turn off Beast Mode and play very defensively until Mega Buff is available again. Then: Mega Buff, Paralyze, Beast Mode (on), Charge, Ultimate Attack
 - Repeat this rotation until T9 is dead
 
-Once you’ve killed The Exile, you’ve graduated from Chat 6!
+Once you’ve killed The Exile, you’ve graduated from Chapter 6!

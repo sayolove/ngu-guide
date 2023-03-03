@@ -86,7 +86,7 @@ Buying the BIG CHONKER CARDS Quirk unlocks Chonker drops, cards with guaranteed 
     - R3 hardcaps are the same as E/M, but 50k-60k R3 is enough to finish all hacks/wishes
 
 ## Adventure Zones
-Adapted from Deceptive Thinker’s SAD strategy
+Adapted from [Deceptive Thinker’s SAD strategy](https://docs.google.com/document/d/14rsevmwHKHwwIfbKknc6yAjOlglOFXbw7qr6GhMNdnM/edit)
 
 ### T10
 - Snipe BTS for gold, but skip farming BTS gear until T10 LRB

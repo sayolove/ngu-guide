@@ -58,7 +58,7 @@ To start a challenge, navigate to Rebirth > Challenges, then click on your desir
 \*\*\* Completing the Laser Sword Challenge increases the base bonus from each augmentation from Milk onwards: Milk bonus will be raised by 0.01, Cannon will be raised by 0.02, etc.
 
 ## Challenge Tips
-(Most of these were originally from Pokie’s Challenge Guide. Mainly aimed at CBlock 1)
+(Most of these were originally from [Pokie’s Challenge Guide](https://docs.google.com/document/d/1HRXczqfv9lz1DMKUAG1uCYU21eZ2nKb7dHbydYJNLS0/edit#). Mainly aimed at CBlock 1)
 
 100 Level Challenge
 - Turn off Beards so they don’t use up allotted levels

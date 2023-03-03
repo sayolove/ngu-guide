@@ -3,7 +3,7 @@ title: "Chapter 7: T9"
 description: "Chapter 7"
 ---
 
-Congrats on defeating The Exile! (Do NOT throw away the parts of the Exile)
+Congrats on defeating The Exile! *(Do NOT throw away the parts of the Exile)*
 
 ## New AK Mechanic
 - For each version of T9, killing it 24 times will permanently unlock AK
@@ -63,11 +63,11 @@ The Final CBlock
 - No prep required, you already have the stats. Start whenever you have 1-2 days free
 - If you really want to prep, get Basic Training quirk/wish and A/D Hack Milestone reducer
 - Challenge List: Finish all Trolls, NoNGUs, Blinds. Complete up to 5 24Hs and NoTMs
-- After finishing BEUCBlock, start a hackday (BEUCDay)
+- After finishing BEUCBlock, start a [hackday](/en/guides/hackday) (BEUCDay)
 
 ## Post-BEUC
 - v2 → v3 → Rad Idle → RadDay → v4 → Sad
-- After BEUCDay, it’s back to 24 hour rebirths for most of the rest of the chat
+- After BEUCDay, it’s back to 24 hour rebirths for most of the rest of the chapter
     - Quadruple E/M power to 24m/8m, fixing your base ratio to 4:150k:1
     - Then only R3 until RadDay (Hackday 4)
     - Switch tags to Wish/Adv, continue casting meh+ Adv/Wish/Hack. Use 3rd tag on Hack
@@ -85,7 +85,7 @@ The Final CBlock
 - A7P is very good, worth equipping (same for A8P)
 
 ### Perks/Quirks/Wishes
-Finish up any previous lists first. By this point, you should have a general understanding of what your priorities should be. If it’s cheap and seems useful, it’s probably worth it. These lists are not meant as strict ordered lists, but general guidelines and perks to look out for. If you have questions about specific perks or choices, ask the Discord! There are plenty of helpful individuals that can offer advice and suggestions :unsmith:
+Finish up any previous lists first. By this point, you should have a general understanding of what your priorities should be. If it’s cheap and seems useful, it’s probably worth it. These lists are not meant as strict ordered lists, but general guidelines and perks to look out for. If you have questions about specific perks or choices, ask the [Discord](https://discord.com/invite/5revMxD)! There are plenty of helpful individuals that can offer advice and suggestions :unsmith:
 
 #### Perks
 - When your next objective is a Hackday, focus R3 Generics (Power/Cap)
@@ -137,18 +137,18 @@ Finish up any previous lists first. By this point, you should have a general und
 - BEUCBlock / BEUCDay: see above sections, resume 24h RB’s after
 - v2: Fight uses specials more often, new special reverses health regen (essentially a bleed)
     - Drops: Credit Card is good for gold and E/M bars, Tentacle is good for Hacks/R3 bars
-    - Post-v2: v2 to v3 is the longest part of the chat, expect around 3 weeks of 24h RB’s
+    - Post-v2: v2 to v3 is the longest part of the chapter, expect around 3 weeks of 24h RB’s
 - v3: Fight adds mind control (2s paralyze). Blocking during will block the entire paralyze time
     - Drops: Skip Card is great for Wish/NGUs, Antennae is great for Hacks
 - Rad LRB: In the rebirth after your first v3 kill, use E/M/R3 beta pots and LRB until Rad max
     - Rad DC is very low, making sniping not worth the effort, so LRB gets to idle stats faster
     - If you do decide to snipe, put the Mixtape in daycare to get the Evil Acc set bonus
     - Stay in LRB until Rad max, then once gear is boosted, start RadDay (Hackday)
-- Post-RadDay: Resume 24H rebirths, spend all EXP on Adventure Power until v4
+- Post-RadDay: Resume 24H rebirths, **spend all EXP on Adventure Power until v4**
     - Keep doing 24H rbs until you can reach Boss 290 and 50 sept (5e25) power, then LRB
 - v4 LRB: Pop E/M/R3 betas and push to the End of Evil
     - v4 fight adds Life Drain, which makes the Exile deal 2x damage and heal itself 10%
-    - Rust killing 9v4 way under recommended stats: NGU Idle T9v4 1.56/0.83
+    - Rust killing 9v4 way under recommended stats: [NGU Idle T9v4 1.56/0.83](https://www.youtube.com/watch?v=sPZl9v8gCTM)
     - Drops: Black Lotus is a very strong wish item, Energy Buster is a very strong hack item
 
 Once you’ve defeated Boss 300 and killed 9v4 24 times, it’s time to go Sadistic. 

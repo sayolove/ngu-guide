@@ -20,11 +20,11 @@ Wandoos has three operating systems (OS) that can be used: Wandoos 98, MEH, and 
 - Wandoos MEH: Maxing the set bonus for T3
 - Wandoos XL: Consumable item drop from T5 / BDW / BAE
 
-| Operating System | Base E/M to BB | Stat Bonus Formula                                 |
-| :--------------: | :------------: | :------------------------------------------------: |
-| Wandoos 98       | 1B (1e9)       | ((1+Energy Level/100) x (1+Magic Level/25))^0.8    |
-| Wandoos MEH      | 1T (1e12)      | (1+Energy Level/5) x (1+Magic Level x 2)           |
-| Wandoos XL       | 1q (1e15)      | ((1+Energy Level x 6) x (1+Magic Level x 40))^1.05 |
+| Operating System | Base E/M to BB | Stat Bonus Formula                |
+| :--------------: | :------------: | :-------------------------------: |
+| Wandoos 98       | 1B (1e9)       | ![Wandoos 98 Formula](/w98.png)   |
+| Wandoos MEH      | 1T (1e12)      | ![Wandoos MEH Formula](/wMEH.png) |
+| Wandoos XL       | 1q (1e15)      | ![Wandoos XL Formula](/wXL.png)   |
 
 ## Using Wandoos
 

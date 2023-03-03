@@ -21,14 +21,14 @@ Congratulations on defeating your first Titan! Consume ‘A Number’, it’s ti
     - Once you can kill T1 consistently, you can also start putting E/M into Time Machine at the beginning of rebirths to further boost your gold production you’ll get after the T1 kill
     - Leveling Time Machine Speed after Level 49 adds a new linear multiplier to gold production, which is very good for your gold production. Don’t stop at Level 49
 - Capitalize on using this gold to start buying Augmentation upgrades, which provides a multiplier to the base value that augments give, but cost a lot more gold
-    - Focus on Safety Scissors / Danger Scissors, with your new gold production, you can get Scissors to outscale the expensive augments you were using in Chat 1
+    - Focus on Safety Scissors / Danger Scissors, with your new gold production, you can get Scissors to outscale the expensive augments you were using in Chapter 1
     - Keep running Scissors until you can start idling A Very Strange Place, when you should be able to transition to running only Milk Infusion / Drinking the Milk Too
 - Wandoos is still very slow and not worth overinvesting into. 
     - Can be useful running for a few minutes at the end of a rebirth for a small push in bosses defeated, especially if you need to unlock a new adventure zone to farm.
     - Wandoos 98 formula provides constantly diminishing returns, so don’t focus heavily
 
 ## EXP Spending
-Similarly to Chat 1, your main focus is still buying Energy in a 1:37.5k:1 base P:C:B ratio
+Similarly to Chapter 1, your main focus is still buying Energy in a 1:37.5k:1 base P:C:B ratio
 - Magic remains mostly unnecessary, aside from buying magic cap to afford Yggdrasil fruit unlocks as necessary (see below section on Yggdrasil for more information)
 
 For most other one-time purchases, buy when their cost is less than 10% of your total EXP
@@ -37,8 +37,8 @@ For most other one-time purchases, buy when their cost is less than 10% of your 
 - Auto-Merge starts with a 1 hour base cooldown, so it’s not as great as it sounds
 
 ## Items to Keep
-Note: This is NOT an exhaustive list of good items or the only items to keep. These are just items obtainable in Chat 2 that may come in handy in future chats. Generally, any item with a unique special bonus (AT / wandoos / respawn / cooldown / NGUs) is likely worth keeping.
-- Definitely Keep to next chat (unique specials):
+Note: This is NOT an exhaustive list of good items or the only items to keep. These are just items obtainable in Chapter 2 that may come in handy in future chapters. Generally, any item with a unique special bonus (AT / wandoos / respawn / cooldown / NGUs) is likely worth keeping.
+- Definitely Keep to next chapter (unique specials):
     - Sands of Time (cooldown)
     - King's Circle Amulet of Helping Random Stuff (AT/wandoos)
     - Stapler (respawn)
@@ -47,8 +47,7 @@ Note: This is NOT an exhaustive list of good items or the only items to keep. Th
 - Can be handy in the future:
     - Amulet of Sunshine, Sparkles and Gore (strong em pow)
     - Dragon Wings (gold/m cap)
-- Can be useful now for specials, replace next chat:
-    - Office Hat
+- Can be useful now for specials, replace next chapter:
     - Office Shoes
     - Gaudy Shirt
     - Gaudy Pants
@@ -100,7 +99,7 @@ After defeating T3 (Jake), consume ‘A Scrap Piece of Paper’ to unlock Gold D
     - Stat digger can be useful to kill a few extra bosses, but there’s no reason to keep it on
 
 ## Adventure Zones
-All the adventure zones in this chat are pretty close together in terms of power/toughness, to the point where you can always snipe (manually fighting the bosses of an adventure zone for gear) the next adventure zone before you’ve maxed out the current set. Because progress is bottlenecked by adventure stats, it can be much faster to obtain better gear and come back to max the other sets when you have better drop chance and enough power/toughness to kill enemies in one hit. Thus, the optimal strategy for this chat is to snipe adventure zones whenever you can, then level/boost that gear set just enough to snipe the next adventure zone.
+All the adventure zones in this chapter are pretty close together in terms of power/toughness, to the point where you can always snipe (manually fighting the bosses of an adventure zone for gear) the next adventure zone before you’ve maxed out the current set. Because progress is bottlenecked by adventure stats, it can be much faster to obtain better gear and come back to max the other sets when you have better drop chance and enough power/toughness to kill enemies in one hit. Thus, the optimal strategy for this chapter is to snipe adventure zones whenever you can, then level/boost that gear set just enough to snipe the next adventure zone.
 - You can trash old gear sets for the inventory space, you’ll farm them all faster later
 - It’s recommended to at least defeat T3 (Jake) before going back to farm old zones, as the feature unlocked by T3 provides a strong drop chance modifier
 - This method does require a lot more active play than just idling, so may not be for everyone
@@ -117,9 +116,9 @@ After killing T1, keep doing 1 hour rebirths to farm T1 gear (4 gear, 1 weapon, 
 - T1 gear is a very strong set, with good energy bonuses and strong p/t
     - Cooking is a useless filler special stat made to waste special boosts before you can start boosting the important stats
 
-There is a decent gap between being able to kill T1 (~1400 p/t) to being able to snipe the first adventure zone in Chat 2, Clock Dimension (~3250/2250 p/t)
+There is a decent gap between being able to kill T1 (~1400 p/t) to being able to snipe the first adventure zone in Chapter 2, Clock Dimension (~3250/2250 p/t)
 - Optionally, if you’re an active player and want to knock out some challenges early, after farming a full set of T1 gear, you can complete 5 basic challenges and 1 24H challenge
-    - Typically recommended for the end of this chat (post-AVSP) when they’re faster
+    - Typically recommended for the end of this chapter (post-AVSP) when they’re faster
     - Basics take around 5-6 hours each here, around ~2 hours each at AVSP
     - Challenges require active play, you want to finish them ASAP. Use 15 minute RBs
 
@@ -166,7 +165,7 @@ If you’ve already completed all 5 of your basic challenges earlier, skip this 
 - After obtaining some AVSP gear, defeating Boss 100, and starting T4’s unlock puzzle, it can be a good time to complete Micro-CBlock: 5 Basic Challenges and 1 24H Challenge
 - During Micro-CBlock, you complete challenges quickly by focusing on features that push bosses and increase your Number, like Wandoos, Augmentations, Time Machine, and Blood Number. It’s suggested to do 15 minute rebirths to optimize number gain.
     - During your challenges, you can also be progressing the T4 unlock puzzle.
-    - For T4 unlock puzzle spoilers, see Appendix: T4 Unlock Puzzle
+    - For T4 unlock puzzle spoilers, see [Secrets & Spoilers: T4 Unlock Puzzle](/en/spoilers/t4-puzzle)
 
 ### LRB to Mega/T4
 After defeating Boss 100, getting some AVSP gear, and finishing the Micro-CBlock, it can be a good time to do your first long rebirth (LRB)
@@ -178,7 +177,7 @@ After defeating Boss 100, getting some AVSP gear, and finishing the Micro-CBlock
 - Why is this a good time? After T3 AK, your primary source of EXP has changed from killing bosses to killing Titans. Since boss EXP was the biggest incentive for rebirthing often, this ends up being a perfect opportunity to make a strong push in adventure without having to reset Advanced Training levels every rebirth or waiting for E/M to fill.
     - After killing T4, there will be a new incentive to rebirth at a regular cadence again
     - LRBs should be used sparingly, you gain more permanent progress from regular rebirths than LRBs
-- Note: There is an alternative strategy to LRB all the way to T5, dubbed the Mega-T5 LRB
+- Note: There is an alternative strategy to LRB all the way to T5, dubbed the [Mega-T5 LRB](https://docs.google.com/document/d/1HsX70QasNW_4G1FE-xBdCsvIaDvhA01N72qilXshpFc/edit)
     - This is probably a faster way to reach T5, but is less tested. Links to a separate guide
 
 ### Mega
@@ -191,7 +190,7 @@ Unlocked by defeating Boss 100
 - Suggested stats: 400k/300k P/T
 - Spawn timer: 2 hours
 - Becomes invincible after his first attack with exponential power growth unless you solve a puzzle. Try fighting T4 in Adventure and read the battle log to start the puzzle
-    - For spoilers, see Appendix: T4 Unlock Puzzle
+    - For spoilers, see [Secrets & Spoilers: T4 Unlock Puzzle](/en/spoilers/t4-puzzle)
 - Doesn’t drop a set of gear, drops a set of 5 rings (accessories)
 
-Once you’ve defeated T4, you’ve graduated from Chat 2! You can proceed to Chat 3: t4-bae
+Once you’ve defeated T4, you’ve graduated from Chapter 2! You can proceed to [Chapter 3: T4-BAE](/en/chapters/chapter-3)

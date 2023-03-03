@@ -12,6 +12,7 @@ Blood Magic has two components: Blood Rituals and Magic Spells
 ## Blood Rituals
 
 | Blood Ritual                 | Blood Output | Gold Cost | Time (seconds)\* |
+| :--------------------------: | :----------: | :-------: | :--------------: |
 | Poke Yourself with a Tack    | 1            | 30M       | 2k               |
 | Fifty Papercuts              | 50           | 10B       | 20k              |
 | A Big-Ass Hickey             | 2k           | 2T        | 200k             |
@@ -30,11 +31,11 @@ Blood Rituals are more gold-efficient at the top and more time-efficient at the 
 
 ## Magic Spells
 
-Blood Number Boost
+### Blood Number Boost
 - A temporary linear Number multiplier for the current rebirth
 - Minimum Blood: 1
 
-Iron Pill
+### Iron Pill
 - Permanent increase to adventure stats:
     - Power/Toughness: + Blood^1/4
     - Max HP: + Blood^1/4 * 3
@@ -42,10 +43,10 @@ Iron Pill
 - Minimum Blood: 100
 - Cooldown: 11.5 hours
 
-Blood Spaghetti
-- Temporary Drop Chance modifier: (log_2(blood/10k) + 1)%
+### Blood Spaghetti
+- Temporary Drop Chance modifier: ![Blood Spaghetti Formula](/blood_spaghetti.png)
 - Minimum Blood: 10k
 
-Counterfeit Gold
-- Temporary Time Machine GPS boost: (log_2(blood/1M) + 1)^2%
+### Counterfeit Gold
+- Temporary Time Machine GPS boost: ![Counterfeit Gold Formula](/counterfeit_gold.png)
 - Minimum Blood: 1M

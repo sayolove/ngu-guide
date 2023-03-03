@@ -23,7 +23,7 @@ As the resource bar fills, that resource is generated as idle resource, which is
 
 When allocating resources, the output of your resources is generally amount allocated * power:
 - Basic Training and Wandoos are not affected by Power
-- Advanced Training only uses the square root of power (amount * power)
+- Advanced Training only uses the square root of power
 
 
 ## Difficulties
@@ -126,10 +126,10 @@ There are a few methods of saving:
 
 ## Platforms
 NGU Idle is available on the following four platforms, with only the first two up-to-date:
-- Steam
-- Kartridge
-- Kongregate (Build 1.220 - 1 patch behind Finale update) - only Mac-compatible platform
-- Armor Games (Build 0.423 - 2 years out of date)
+- [Steam](https://store.steampowered.com/app/1147690/NGU_IDLE/)
+- [Kartridge](https://www.kartridge.com/games/somethingggg/ngu-idle)
+- [Kongregate](https://www.kongregate.com/games/somethingggg/ngu-idle) (Build 1.220 - 1 patch behind Finale update) - only Mac-compatible platform
+- [Armor Games](https://armorgames.com/ngu-idle-game/18444?fp=ng) (Build 0.423 - 2 years out of date)
 
 NGU Idle saves can be imported to any platform on the same patch or later, but saves cannot be imported into past patches. So you can switch from any platform to Steam/Kartridge, but you cannot go back from Steam/Kartridge to Kongregate or Armor Games. 
 

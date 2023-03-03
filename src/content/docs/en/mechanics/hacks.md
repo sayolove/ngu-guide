@@ -17,7 +17,7 @@ Hacks provide permanent bonuses to various features and can be leveled up by all
 
 ## Hack Bonus
 
-Total Bonus = (100%+Effect x Level) x Milestone Bonus^{Number of Milestones Reached}
+Total Bonus = ![Hack Bonus](/hackBonus.png)
 
 | Hack Type          | Effect per level | Milestone Bonus | Levels per milestone <br> (Max reduction) |
 | :----------------: | :--------------: | :-------------: | :---------------------------------------: |
@@ -39,7 +39,7 @@ Total Bonus = (100%+Effect x Level) x Milestone Bonus^{Number of Milestones Reac
 
 ## Hack Speed
 
-The time it takes for a Hack to level up:  SpeedDivider x 1.0078^level x (level + 1) / (R3allocated x R3Power x HackSpeed)
+The time it takes for a Hack to level up: ![Hack Speed](/hackSpeed.png)
 
 | Hack Type          | Speed Divider | Hardcap Level | Max Bonus |
 | :----------------: | :-----------: | :-----------: | :-------: |

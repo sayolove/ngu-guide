@@ -23,7 +23,7 @@ const currentPage = Astro.url.pathname;
 		<HeadCommon />
 		<HeadSEO {...data} canonicalUrl={canonicalURL} />
 		<title>
-			{`${data.title} 🚀 ${SITE.title}`}
+			{`${data.title} - ${SITE.title}`}
 		</title>
 		<style>
 			body {
@@ -73,8 +73,8 @@ const currentPage = Astro.url.pathname;
 			@media (min-width: 50em) {
 				.layout {
 					overflow: initial;
-					grid-template-columns: 20rem minmax(0, var(--max-width));
-					gap: 1em;
+					grid-template-columns: 15rem minmax(0, var(--max-width));
+					gap: 0em;
 				}
 
 				#grid-left {
@@ -87,7 +87,7 @@ const currentPage = Astro.url.pathname;
 
 			@media (min-width: 72em) {
 				.layout {
-					grid-template-columns: 20rem minmax(0, var(--max-width)) 18rem;
+					grid-template-columns: 15rem minmax(0, var(--max-width)) 18rem;
 					padding-left: 0;
 					padding-right: 0;
 					margin: 0 auto;
@@ -117,9 +117,9 @@ const currentPage = Astro.url.pathname;
 	</head>
 
 	<body>
-		<Header currentPage={currentPage} />
+		<Header />
 		<main class="layout">
-			<aside id="grid-left" class="grid-sidebar" title="Site Navigation">
+			<aside id="grid-left" class="grid-sidebar" title="Navigation">
 				<LeftSidebar currentPage={currentPage} />
 			</aside>
 			<div id="grid-main">
@@ -127,7 +127,7 @@ const currentPage = Astro.url.pathname;
 					<slot />
 				</PageContent>
 			</div>
-			<aside id="grid-right" class="grid-sidebar" title="Table of Contents">
+			<aside id="grid-right" class="grid-sidebar" title="Page Contents">
 				<RightSidebar headings={headings} />
 			</aside>
 		</main>

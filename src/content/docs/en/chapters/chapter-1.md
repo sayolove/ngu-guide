@@ -72,7 +72,7 @@ One of the core mechanics of NGU Idle is resource management. Over time, you gai
         - For every 1 Energy Power bought, buy 37.5k Energy Cap and 1 Energy Bar
         - When you stop using Energy Speed gear, bring Base Energy Speed to 50
 - Other EXP purchases:
-    - Magic: Not worth spending EXP on in this chat, doesn’t help with progression
+    - Magic: Not worth spending EXP on in this chapter, doesn’t help with progression
     - Adv Stats: Not worth buying in Normal. Temporary stat boost vs permanent energy
     - Other: Buy one-time purchases when their cost is about 10% of your total EXP
         - Check lifetime EXP in Info n Stats > Misc Stats > Total Earned EXP
@@ -125,6 +125,8 @@ Early on, it’s suggested to do 30 minute rebirths (30m RBs) as often as possib
     - With enough rebirths leveling up BT skills, you can get each skill to run at max speed with 1 energy each, freeing up your energy to be used for other uses
     - Within 30 minutes, focus each BT skill until hovering over the skill shows that you’ve reached maximum cap reduction
 
+![Basic Training Cap Reduction](/btcap.png)
+
 ## Unlockable Mechanics
 
 ### Money Pit / Daily Spin
@@ -167,7 +169,7 @@ Early on, it’s suggested to do 30 minute rebirths (30m RBs) as often as possib
     - Blood Rituals cost gold and magic to produce blood
     - Magic Spells use blood to produce various effects
 - Accrued blood and spell effects are reset on rebirth
-- In this chat, you’ll mostly be looking to use Poke Yourself with a Tack / Blood Number Boost
+- In this chapter, you’ll mostly be looking to use Poke Yourself with a Tack / Blood Number Boost
 
 ### ITOPOD (Infinite Tower of Pissed Off Dudes)
 - Unlocked after consuming the ‘Pissed Off Key’ from The Sky, the ITOPOD is a special adventure zone, consisting of floors of enemies to defeat so you can climb up the tower
@@ -179,7 +181,7 @@ Early on, it’s suggested to do 30 minute rebirths (30m RBs) as often as possib
 - Each 10 floors, the first time you conquer that floor, you get a one-time PP reward
     - Floor 10, 20, 30, …, 90 each grant 1 PP, then Floor 100 grants 10 PP
 - Perk Points can be used on ITOPOD Perks, permanent bonuses that cost PP to buy
-- In this chat, you should look to climb the tower as high as you can for the first time bonuses
+- In this chapter, you should look to climb the tower as high as you can for the first time bonuses
     - It’s not worth it to farm the ITOPOD for ppp this early, as you don’t have enough stats or bonuses to get any significant ppp. Just climb (set start floor to 0, end floor to 100).
     - Spend the PP you get on the first 5 Newbie perks (Perks 0-4), then get 2 levels of Instant Advanced Training Levels (Perk 18), and then alternate any remaining PP between Generic Energy Power I (Perk 6) and Generic Energy Cap I (Perk 8)
 
@@ -187,7 +189,7 @@ Early on, it’s suggested to do 30 minute rebirths (30m RBs) as often as possib
 - Unlocked after consuming ‘A busted copy of Wandoos 98’, Wandoos uses Energy/Magic to provide an Attack/Defense multiplier. Wandoos is permanently unlocked once unlocked
 - Wandoos takes an hour to boot up to max speed, increasing speed from 0% to 100%
 - Wandoos levels are reset on rebirth
-- In this chat, Wandoos is too expensive to provide much benefit, just ignore it for now.
+- In this chapter, Wandoos is too expensive to provide much benefit, just ignore it for now.
 
 ## Adventure Zones
 
@@ -244,7 +246,7 @@ Early on, it’s suggested to do 30 minute rebirths (30m RBs) as often as possib
     - T1 has a random chance to inflict a bleed, which deals constant damage over time
     - These bleeds can stack, eventually negating your HP Regen
     - As a result, T1 fight can be somewhat RNG-dependent, you may get unlucky with a lot of bleeds and just not be able to survive long enough to kill T1
-- Once you’ve defeated Titan 1, you’ve graduated from Chat 1! You can move to Chat 2
+- Once you’ve defeated Titan 1, you’ve graduated from Chapter 1! You can move to [Chapter 2](/en/chapters/chapter-2)
 
 ## FAQ
 
@@ -262,7 +264,7 @@ Early on, it’s suggested to do 30 minute rebirths (30m RBs) as often as possib
     - Focus mostly on Power (kill enemies faster) and Energy Power (stronger augments)
 
 - Should I do challenges?   
-    - No, the suggested time to start challenges is towards the end of next chat, after defeating Boss 100. If you’re very eager to start challenges, the first good point would be after defeating Titan 1 a few times to get a set of T1 gear.
+    - No, the suggested time to start challenges is towards the end of next chapter, after defeating Boss 100. If you’re very eager to start challenges, the first good point would be after defeating Titan 1 a few times to get a set of T1 gear.
         - It’s recommended to wait to do challenges until you have progressed further in Adventure. While completing the Basic Challenge is possible after Boss 58, it might take a day or longer to complete. If you wait until you have better gear and stronger energy, you will be able to complete basic challenges in a few hours.
         - If you’re aiming to complete basic challenges around T1, expect each basic challenge to take up to 8 hours of active 15m-1h rebirths
 

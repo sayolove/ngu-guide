@@ -5,7 +5,7 @@ description: "Cards"
 
 Cards are a feature unlocked by defeating T9, The Exile. Over time, cards will drop into your deck. Each card has a type, rarity, tier, and mayo cost. Upon casting a card, it will consume the listed mayo and provide a permanent bonus to the listed feature.
 
-< include image to card example >
+![Card Example](/card.png)
 
 In this card, the 7 in the top left is the card tier, the 2, 1, and 1 on the right are the mayo costs. PP Gain is the card type, and crappy is the rarity. All 4 of these factors contribute to the overall effect being +0.494% pp gain. The base time for a card to drop is 1 hour, but you can decrease this with perks/quirks/wishes.
 
@@ -28,7 +28,7 @@ A card’s rarity is a multiplier to the overall effect of a card. The rarity mu
 ## Card Tier
 A card’s tier is another multiplier to the overall effect of a card, which is dependent on the card type. All card types start at tier 1, but with Tier Up perks/quirks/wishes, you can increase the tier for a given card type permanently. Once a card tier has been increased, all future cards spawning with that card type will spawn with the new tier. For example, if a player with tier 2 PP gain cards in their inventory purchases a PP card Tier Up, the cards in their inventory will not change, but any future PP gain cards that drop will drop at tier 3.
 
-The value of tier upgrades is different based on card type. Certain types (e.g. A/D, Drop Chance) scale very well with tiers, while others (e.g. Wishes/Hacks) do not grow too much between tiers (For more details, see the wiki page for card tiers). Due to the random nature of the other factors, the main method of increasing card gains is to obtain Tier Ups. 
+The value of tier upgrades is different based on card type. Certain types (e.g. A/D, Drop Chance) scale very well with tiers, while others (e.g. Wishes/Hacks) do not grow too much between tiers (For more details, see the [wiki page for card tiers](https://ngu-idle.fandom.com/wiki/Cards#Card_bonus_formula)). Due to the random nature of the other factors, the main method of increasing card gains is to obtain Tier Ups. 
 
 ## Mayo  
 Mayo is the currency/resource used to cast cards. Each card drops with a random mayo cost, split across the six mayo types. In order to cast a card, you must have enough of each mayo. In order to generate mayo, go to the bottom left of the cards menu, and check the box corresponding to the type of mayo you want. The base time for a mayo to generate is one hour, but this can be decreased with mayo speed upgrade perks/quirks/wishes.

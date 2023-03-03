@@ -21,6 +21,6 @@ At the beginning of the game, fighting bosses is the main way to unlock features
 | 37      | Blood Magic         |
 | 58      | Challenges          |
 
-For a full list of boss fight unlocks, see Appendix: Boss Fight Unlocks
+For a full list of boss fight unlocks, see [Reference Lists: Boss Fight Unlocks](/en/lists/boss-list)
 
-For a full list of bosses, along with their stats and EXP rewards, see the wiki page
+For a full list of bosses, along with their stats and EXP rewards, see the [wiki page](https://ngu-idle.fandom.com/wiki/Boss_Fights)

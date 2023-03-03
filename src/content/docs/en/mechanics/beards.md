@@ -9,9 +9,9 @@ Unlocked upon defeating T4 (UUG, The Unmentionable) and consuming ‘UUG’s Arm
 
 Each beard has two types of levels: temporary and permanent
 - Beards passively gain temporary levels after Energy/Magic has reached its cap
-    - Beard speed is proportional to BarsPower for the utilized resource
+    - Beard speed is proportional to ![Beards Formula](/beards.png) for the utilized resource
 - When you rebirth, active beards convert a portion of their temporary levels to permanent levels, based on how long the rebirth was
-    - Permanent levels gained: min(TempLevelTimeFactor, TempLevel) 
+    - Permanent levels gained: ![Beard Perm Formula](/beardPERM.png)
     - The time factor starts at 0, then increases by ⅓ every hour until reaching a maximum of 8 at 24 hours.
     - The Five O’Clock Shadow perk speeds up the time factor, reducing the total time to reach the maximum time factor by 1 hour per level
 - Temporary and permanent beard levels stack multiplicatively with each other
@@ -34,7 +34,7 @@ Unlocking Beards will provide one slot by default, up to 7 total slots can be ob
 - 1 slot can be bought with EXP under the Misc section for 50k EXP
 - 4 slots can be bought from the Sellout Shop for AP (1st is 110k AP, after 225k AP)
 
-Beard Speed Formula: Bars  Power  (1 + GearBeardSpeed)SpeedDivider  (level + 1)  BeardsSameResourceDiggerBeards
+Beard Speed Formula: ![Beard Speed Formula](/beardSPEED.png)
 - Running multiple beards of the same resource type provides a small penalty to speed
     - Maxing out the Beardverse set reduces the penalty by 10%
 

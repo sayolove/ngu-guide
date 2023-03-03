@@ -80,7 +80,7 @@ Unlocked after maxing 4G’s Merge and Boost Tutorial Cube (accessory in Tutoria
     - After Tier 1, every tier is 10x the previous tier, so Tier 2 is 1k stats, Tier 3 is 10k, etc
     - As new tiers are unlocked, new skins for the cube are also unlocked
     - Skins can be cycled by left-clicking on the cube. Skins are purely cosmetic.
-    - For a full list of cube tiers, bonuses, and skin appearances, see the wiki
+    - For a full list of cube tiers, bonuses, and skin appearances, [see the wiki](https://ngu-idle.fandom.com/wiki/Infinity_Cube#Cube_Tiers)
 - Softcap: The cube’s power and toughness stats reach a softcap at base + equipment stats
     - Any excess P/T amount above the softcap will only grant a square root of the excess
     - Example: If base power is 400 and equipment power is at 600, cube power softcap would be at 1000. If the cube has 1100 power, since it is 100 above the softcap, the 100 gets square rooted to 10, and the Infinity Cube would give 1010 power

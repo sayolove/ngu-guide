@@ -3,7 +3,7 @@ title: "Questing"
 description: "Questing"
 ---
 
-Unlocked upon defeating T6 (THE BEAST) and consuming the ‘Heroic Sigil’, Questing sends you on fetch quests in adventure zones to get Quirk Points (QP), which can be spent on Quirks. All Quest progress is permanent and persists through rebirths.
+Unlocked upon defeating T6 (THE BEAST) and consuming the ‘Heroic Sigil’, Questing sends you on fetch quests in adventure zones to get Quirk Points (QP), which can be spent on Quirks. *All Quest progress is permanent and persists through rebirths.*
 
 ## How to Quest
 
