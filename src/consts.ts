@@ -6,7 +6,7 @@ export const SITE = {
 
 export const OPEN_GRAPH = {
 	image: {
-		src: '/favicon.jpg',
+		src: '/ngu-guide/favicon.jpg',
 		alt:
 			'NGU Idle logo',
 	}
