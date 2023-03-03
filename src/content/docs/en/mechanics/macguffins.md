@@ -40,4 +40,4 @@ MacGuffin Fragments only provide bonuses when equipped in a MacGuffin slot on re
     - The time factor is optimal at 30 minutes, increasing with diminishing returns afterwards
     - The time factor goes up to ~6.93 at 24 hours, and caps at 20 at 200 hours
 
-For a full list of MacGuffins and their bonus scaling, see [Reference Lists: MacGuffin List](/ngu-guide/lists/macguffin-list)
+For a full list of MacGuffins and their bonus scaling, see [Reference Lists: MacGuffin List](/en/lists/macguffin-list)

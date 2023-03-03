@@ -15,7 +15,7 @@ Turn on BEARd, keep BEARd on always outside of challenges
 
 ## Rebirths
 After T4, it’s optimal for beard growth to **rebirth every 24 hours**
-- Focus on a one feature at a time, equipping [optimized gear](/ngu-guide/guides/go-guide) and allocate all resources
+- Focus on a one feature at a time, equipping [optimized gear](/en/guides/go-guide) and allocate all resources
 - Example 24 Hour Rebirth (with suggested GO priorities)
     - First hour: Time Machine, GO priority: Time Machine
     - Second hour: Advanced Training, GO priority: Advanced Training
@@ -127,13 +127,13 @@ Walderp has 5 forms that must be defeated, with only the final form being his tr
     - The first form of Walderp can be killed before Beardverse, around 800k/400k P/T
     - Each successive form is stronger than the last, up to ~4m/3m for the final form
 - The fight with Walderp cannot be idled, as he has a special mechanic in the fight
-    - For a guide on how to fight Walderp: [Secrets & Spoilers: T5 Fight](/ngu-guide/spoilers/t5-fight)
+    - For a guide on how to fight Walderp: [Secrets & Spoilers: T5 Fight](/en/spoilers/t5-fight)
 - When fighting against Titans, your GO priorities should be Move Cooldown, Power
     - This means you should wear both Ring of Might and Sands of Time for the T5 fight
     - You don’t need Respawn while fighting Titans, so you can take off RoG
     - Once you can kill Titans more easily, you can switch out some Power items for DC
 
-Killing Walderp’s final form unlocks [MacGuffins](/ngu-guide/mechanics/macguffins), which is located in the Inventory menu
+Killing Walderp’s final form unlocks [MacGuffins](/en/mechanics/macguffins), which is located in the Inventory menu
 - MacGuffins is the slowest scaling feature in the game, will start out useless
     - MacGuffins will start scaling in Evil Difficulty, and become crucial in Sadistic
 - Killing 1k consecutive enemies in an adventure zone will drop that zone’s guff
@@ -165,7 +165,7 @@ Ideally, you want to obtain a CCoD as soon as possible to utilize the E/M specia
     - Up to the third Troll Challenge, with the fourth optional for a beard slot
     - Up to the third No Time Machine Challenge
     - Finish with a 24 Hour Challenge to climb Number
-- For tips on completing challenges, see [Challenge Tips](/ngu-guide/mechanics/challenges#challenge-tips)
+- For tips on completing challenges, see [Challenge Tips](/en/mechanics/challenges#challenge-tips)
 - CBlock1 will provide a lot of EXP, dump this into Magic to bring E:M ratio to 5:1
 - After finishing CBlock1, resume 24h rebirths, focusing NGUs and Beards on Adventure
 
@@ -185,7 +185,7 @@ After you finish CBlock1, Yggdrasil starts to become a lot more important. After
 - Before starting the LRB to T6, make sure to solve the T6 puzzle and have T6 unlocked
     - Just having the zone unlocked does not mean that T6 has been unlocked
     - To start the T6 puzzle, kill the Guardian in T6’s adventure zone to obtain a clue
-    - For answers, see [Secrets & Spoilers: T6 Unlock Puzzle](/ngu-guide/spoilers/t6-puzzle)
+    - For answers, see [Secrets & Spoilers: T6 Unlock Puzzle](/en/spoilers/t6-puzzle)
 - Once you are able to idle BDW, you can begin the LRB to T6. Use an Energy Beta potion.
     - Aim to reach 60k-80k levels in NGU Adventure, AT Power/Toughness, 5k in AT Block
     - Wear the BDW helmet while leveling Advanced Training
@@ -194,4 +194,4 @@ After you finish CBlock1, Yggdrasil starts to become a lot more important. After
     - Snipe a full set of Level 1 BAE gear (aim for 1-2% DC to snipe, run NGU DC if needed)
     - Once you have around 650m-700m power, you should be ready to attempt T6
 
-Once you’ve killed T6, you’ve graduated from Chapter 3 and can proceed to [Chapter 4: T6](/ngu-guide/chapters/chapter-4)
+Once you’ve killed T6, you’ve graduated from Chapter 3 and can proceed to [Chapter 4: T6](/en/chapters/chapter-4)

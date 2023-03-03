@@ -7,13 +7,13 @@ description: "Boss List"
 
 | Boss \# | Feature                                           | Adventure Zone       | Titan                  |
 | :-----: | :-----------------------------------------------: | :------------------: | :--------------------: |
-| 4       | [Adventure Mode](/ngu-guide/mechanics/adventure)         | Tutorial Zone        |                        |
+| 4       | [Adventure Mode](/en/mechanics/adventure)         | Tutorial Zone        |                        |
 | 7       |                                                   | Sewers               |                        |
-| 17      | [Augmentation](/ngu-guide/mechanics/augmentation)        | Forest               |                        |
-| 30      | [Broken Time Machine](/ngu-guide/mechanics/time-machine) |                      |                        |
-| 37      | [Blood Magic](/ngu-guide/mechanics/blood-magic)          | Cave of Many Things  |                        |
+| 17      | [Augmentation](/en/mechanics/augmentation)        | Forest               |                        |
+| 30      | [Broken Time Machine](/en/mechanics/time-machine) |                      |                        |
+| 37      | [Blood Magic](/en/mechanics/blood-magic)          | Cave of Many Things  |                        |
 | 48      |                                                   | The Sky              |                        |
-| 58      | [Challenges](/ngu-guide/mechanics/challenges)            | High Security Base   | Gordon Ramsey Bolton   |
+| 58      | [Challenges](/en/mechanics/challenges)            | High Security Base   | Gordon Ramsey Bolton   |
 | 66      |                                                   | Clock Dimension      | Grand Corrupted Tree   |
 | 74      |                                                   | The 2D Universe      |                        |
 | 82      |                                                   | Ancient Battlefield  | Jake From Accounting   |

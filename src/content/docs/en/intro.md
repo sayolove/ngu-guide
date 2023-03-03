@@ -22,7 +22,7 @@ This guide is split into sections: Chapters, Mechanics, Guides, Reference Lists,
 
 Although the game has plenty of content and mechanics to explore, I would highly suggest joining the Discord and saying hello in your respective progression chat. The game is a lot more enjoyable when you have the social aspect of playing alongside other players and being able to compare progress, try different strategies, and make some friends along the way :unsmith:
 
-If you’re starting your playthrough, you can head over to [Chapter 1](/ngu-guide/chapters/chapter-1) to get started.
+If you’re starting your playthrough, you can head over to [Chapter 1](/en/chapters/chapter-1) to get started.
 
 ## Acknowledgements
 
