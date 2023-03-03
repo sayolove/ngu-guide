@@ -29,7 +29,7 @@ Ygg go brr
 
 ## NGU Priority
 As you progress through this chapter, your NGU speed will start to get good enough to start getting some decent levels in NGUs like NGU Energy/Magic NGU, Adventure Beta, PP, and Respawn
-- Use the [Gear Optimizer’s NGU tab](https://gmiclotte.github.io/gear-optimizer/#/ngus) ([Guide on How to use the GO NGU tab](/en/guides/go-guide#ngus))
+- Use the [Gear Optimizer’s NGU tab](https://gmiclotte.github.io/gear-optimizer/#/ngus) ([Guide on How to use the GO NGU tab](/ngu-guide/guides/go-guide#ngus))
     - Set E/M cap, get E/M NGU Speed from Stat Breakdowns (divide by 100 for %), 60 mins
 - In general, you want to prioritize gains in NGU E/M NGU, since it boosts NGU speed
 - Example Priority: (if you meet % bonus change, put all E/M into that NGU for an hour)

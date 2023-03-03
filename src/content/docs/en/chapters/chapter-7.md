@@ -63,7 +63,7 @@ The Final CBlock
 - No prep required, you already have the stats. Start whenever you have 1-2 days free
 - If you really want to prep, get Basic Training quirk/wish and A/D Hack Milestone reducer
 - Challenge List: Finish all Trolls, NoNGUs, Blinds. Complete up to 5 24Hs and NoTMs
-- After finishing BEUCBlock, start a [hackday](/en/guides/hackday) (BEUCDay)
+- After finishing BEUCBlock, start a [hackday](/ngu-guide/guides/hackday) (BEUCDay)
 
 ## Post-BEUC
 - v2 → v3 → Rad Idle → RadDay → v4 → Sad

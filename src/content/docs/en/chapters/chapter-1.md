@@ -246,7 +246,7 @@ Early on, it’s suggested to do 30 minute rebirths (30m RBs) as often as possib
     - T1 has a random chance to inflict a bleed, which deals constant damage over time
     - These bleeds can stack, eventually negating your HP Regen
     - As a result, T1 fight can be somewhat RNG-dependent, you may get unlucky with a lot of bleeds and just not be able to survive long enough to kill T1
-- Once you’ve defeated Titan 1, you’ve graduated from Chapter 1! You can move to [Chapter 2](/en/chapters/chapter-2)
+- Once you’ve defeated Titan 1, you’ve graduated from Chapter 1! You can move to [Chapter 2](/ngu-guide/chapters/chapter-2)
 
 ## FAQ
 

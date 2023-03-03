@@ -68,7 +68,7 @@ Hack Days are an approach to optimize Hacks by focusing on them for only one day
 - The first HackDay is done after Typo snipe, CBlock 4, and having at least 50 R3 Power
 - Utilizing Hack Days can make the game feel slower in the time before each Hack Day, especially if you compare to players that aren’t doing Hack Days and run Hacks casually. Each Hack Day provides a dramatic increase for almost every feature, which will propel you past any players that aren’t doing Hack Days that were passing you before because the Hack gains you obtained from doing Hack Days will surpass the levels they got casually.
 - Hack Days require planning in Gear Optimizer to get the most out of each Hack Day
-- See [Guide: Hackday Planning Guide](/en/guides/hackday) for a guide on how to plan a Hack Day
+- See [Guide: Hackday Planning Guide](/ngu-guide/guides/hackday) for a guide on how to plan a Hack Day
 - Note: Delta potions / Advance don’t work offline, so avoid going offline during Hack Days
 - If you need to go offline, you should extend your Hack Days to utilize the full delta pot
 
@@ -217,7 +217,7 @@ After mNGU, the order becomes less rigid, but a rough order: Gold > DC > EBar > 
 ![CBlock 4 Loadout](/cblock4gear.png)
 
 ### Hack Day 1
-- The day has finally arrived! Plan out your Hackday using the [Guide: Hackday Planning Guide](/en/guides/hackday)
+- The day has finally arrived! Plan out your Hackday using the [Guide: Hackday Planning Guide](/ngu-guide/guides/hackday)
 - Is there anything else I should do first?
     - If you haven’t completed Troll 5 or NoNGU 7, it’s advised to complete those first
     - If you’re a few days away from A6P, it’s worth delaying for the Hack Speed boost
@@ -260,9 +260,9 @@ After mNGU, the order becomes less rigid, but a rough order: Gold > DC > EBar > 
 
 ### T9 LRB
 - After JRPG snipe/Fad max, you’ll start your Long Rebirth to T9 with Hack Day 2
-    - Reminder: [Guide: Hackday Planning Guide](/en/guides/hackday). Planning should be similar to your HD1 plan, except you should have a full Hack loadout and you can add an hour of Wish Hack
+    - Reminder: [Guide: Hackday Planning Guide](/ngu-guide/guides/hackday). Planning should be similar to your HD1 plan, except you should have a full Hack loadout and you can add an hour of Wish Hack
 - Start the LRB with using all 3 E/M/R3 Beta potions
-- Post-HD2: Max Fad/JRPG sets, complete the [T9 Unlock Puzzle](/en/spoilers/t9-puzzle), use all your Major Quests
+- Post-HD2: Max Fad/JRPG sets, complete the [T9 Unlock Puzzle](/ngu-guide/spoilers/t9-puzzle), use all your Major Quests
     - Can get the 20k QP Accessory Slot with your post-HD2 QP
 - Recommended Loadout priorities: Respawn / Daycare / NGU / Wishes
     - Many people choose to complete the AT wish during this time
