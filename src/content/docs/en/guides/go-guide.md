@@ -4,7 +4,7 @@ description: "GO Guide GO"
 ---
 
 [Gear Optimizer (GO)](https://gmiclotte.github.io/gear-optimizer/#/) is a calculator for NGU Idle, which can be used to optimize use of various features, available as tabs on the top: Gear, Augmentations, NGUs, Hacks, and Wishes.   
-This mini-guide contains help for Gear / Augments / NGUs. Hacks is covered in the next mini-guide: [Hackday Planning Guide](en/guides/hackday). Wishes aren’t covered as most people don’t use it.
+This mini-guide contains help for Gear / Augments / NGUs. Hacks is covered in the next mini-guide: [Hackday Planning Guide](/ngu-guide/en/guides/hackday). Wishes aren’t covered as most people don’t use it.
 
 ## Gear
 
@@ -93,7 +93,7 @@ The Augments tab can be used to determine which augmentation is the most efficie
 
 In the example below, Cannon Implant is the best augment to run.
 
-![GO Augment Page Example](/goAug.png)
+![GO Augment Page Example](/ngu-guide/goAug.png)
 
 ## NGUs
 
@@ -115,4 +115,4 @@ The NGUs tab can be used to determine how much gain each NGU will give in a cert
 
 In the example image below, we can get 5% gains from running both NGU Magic NGU and NGU Energy NGU, so it would be a good idea to run NGUs for an hour putting all the Energy we would’ve spent on NGUs on NGU Magic NGU. Similarly, we should put our Magic we would’ve spent on NGUs on NGU Energy NGU. However, NGU PP, NGU Adventure B, and NGU Respawn do not provide enough gains to justify running them at this moment.
 
-![GO NGU Page Example](/goNGU.png)
+![GO NGU Page Example](/ngu-guide/goNGU.png)

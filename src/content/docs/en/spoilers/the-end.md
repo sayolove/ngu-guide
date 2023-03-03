@@ -32,6 +32,6 @@ There’s 16 special items that are required:
 
 Once you’ve acquired all 16 items, assemble them in the top left corner of the first page, and ctrl+click the final piece (with the red button) to see the ending.
 
-![THE END](/the_end.png)
+![THE END](/ngu-guide/the_end.png)
 
 Congratulations on beating NGU Idle! 

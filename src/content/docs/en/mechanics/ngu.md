@@ -36,30 +36,30 @@ Unlocked upon defeating T1 (Gordon Ramsay Bolton) and consuming ‘A Number’, 
 
 ### Energy NGUs
 
-| Energy NGU  | Effect per level | Softcap | Effect post-softcap             | Base Cost\* |
-| :---------: | :--------------: | :-----: | :-----------------------------: | :---------: |
-| Augments    | 1%               |         |                                 | 200B (2e11) |
-| Wandoos     | 0.1%             |         |                                 | 200B (2e11) |
-| Respawn     | 0.05%            | 400     | ![NGU Respawn](/nguRespawn.png) | 200B (2e11) |
-| Gold        | 1%               |         |                                 | 200B (2e11) |
-| Adventure a | 0.1%             | 1000    | ![NGU Adv](/nguAdvDC.png)       | 200B (2e11) |
-| Power a     | 5%               |         |                                 | 200B (2e11) |
-| Drop Chance | 0.1%             | 1000    | ![NGU DC](/nguAdvDC.png)        | 20T (2e13)  |
-| Magic NGU   | 0.1%             | 1000    | ![NGU MNGU](/nguMNGU.png)       | 400T (4e14) |
-| PP          | 0.05%            | 1000    | ![NGU PP](/nguPP.png)           | 10q (1e16)  |
+| Energy NGU  | Effect per level | Softcap | Effect post-softcap                       | Base Cost\* |
+| :---------: | :--------------: | :-----: | :---------------------------------------: | :---------: |
+| Augments    | 1%               |         |                                           | 200B (2e11) |
+| Wandoos     | 0.1%             |         |                                           | 200B (2e11) |
+| Respawn     | 0.05%            | 400     | ![NGU Respawn](/ngu-guide/nguRespawn.png) | 200B (2e11) |
+| Gold        | 1%               |         |                                           | 200B (2e11) |
+| Adventure a | 0.1%             | 1000    | ![NGU Adv](/ngu-guide/nguAdvDC.png)       | 200B (2e11) |
+| Power a     | 5%               |         |                                           | 200B (2e11) |
+| Drop Chance | 0.1%             | 1000    | ![NGU DC](/ngu-guide/nguAdvDC.png)        | 20T (2e13)  |
+| Magic NGU   | 0.1%             | 1000    | ![NGU MNGU](/ngu-guide/nguMNGU.png)       | 400T (4e14) |
+| PP          | 0.05%            | 1000    | ![NGU PP](/ngu-guide/nguPP.png)           | 10q (1e16)  |
 
 \* Base Cost = Time in seconds for Level 0 to Level 1 with 1 Energy Power, 1 Energy Cap
 
 ### Magic NGUs
 
-| Magic NGU    | Effect per level | Softcap | Effect post-softcap | Base Cost\*   |
-| :----------: | :--------------: | :-----: | :-----------------: | :-----------: |
-| Yggdrasil    | 0.1%             | 400     | ![NGU YGG](/nguYGG.png)      | 400B (4e11)   |
-| Exp          | 0.01%            | 2000    | ![NGU EXP](/nguEXP.png)     | 1.2T (1.2e12) |
-| Power b      | 1%               |         |                     | 4T (4e12)     |
-| Number       | 1%               | 1000    | ![NGU NUMBER](/nguNUMBER.png)       | 12T (1.2e13)  |
-| Time Machine | 0.2%             | 1000    | ![NGU TM](/nguTM.png)     | 100T (1e14)   |
-| Energy NGU   | 0.1%             | 1000    | ![NGU ENGU](/nguMNGU.png)      | 1q (1e15)     |
-| Adventure b  | 0.03%            | 1000    | ![NGU AdvB](/nguAdvB.png)     | 10q (1e16)    |
+| Magic NGU    | Effect per level | Softcap | Effect post-softcap                     | Base Cost\*   |
+| :----------: | :--------------: | :-----: | :-------------------------------------: | :-----------: |
+| Yggdrasil    | 0.1%             | 400     | ![NGU YGG](/ngu-guide/nguYGG.png)       | 400B (4e11)   |
+| Exp          | 0.01%            | 2000    | ![NGU EXP](/ngu-guide/nguEXP.png)       | 1.2T (1.2e12) |
+| Power b      | 1%               |         |                                         | 4T (4e12)     |
+| Number       | 1%               | 1000    | ![NGU NUMBER](/ngu-guide/nguNUMBER.png) | 12T (1.2e13)  |
+| Time Machine | 0.2%             | 1000    | ![NGU TM](/ngu-guide/nguTM.png)         | 100T (1e14)   |
+| Energy NGU   | 0.1%             | 1000    | ![NGU ENGU](/ngu-guide/nguMNGU.png)     | 1q (1e15)     |
+| Adventure b  | 0.03%            | 1000    | ![NGU AdvB](/ngu-guide/nguAdvB.png)     | 10q (1e16)    |
 
 \* Base Cost = Time in seconds for Level 0 to Level 1 with 1 Magic Power, 1 Magic Cap

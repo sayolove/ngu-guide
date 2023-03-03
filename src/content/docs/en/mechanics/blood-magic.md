@@ -44,9 +44,9 @@ Blood Rituals are more gold-efficient at the top and more time-efficient at the 
 - Cooldown: 11.5 hours
 
 ### Blood Spaghetti
-- Temporary Drop Chance modifier: ![Blood Spaghetti Formula](/blood_spaghetti.png)
+- Temporary Drop Chance modifier: ![Blood Spaghetti Formula](/ngu-guide/blood_spaghetti.png)
 - Minimum Blood: 10k
 
 ### Counterfeit Gold
-- Temporary Time Machine GPS boost: ![Counterfeit Gold Formula](/counterfeit_gold.png)
+- Temporary Time Machine GPS boost: ![Counterfeit Gold Formula](/ngu-guide/counterfeit_gold.png)
 - Minimum Blood: 1M

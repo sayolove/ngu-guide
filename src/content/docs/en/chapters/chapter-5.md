@@ -58,7 +58,7 @@ Here’s a standard 24 hour rebirth schedule while you’re climbing up to Boss 
 
 **0:30-3:00: Augment Phase**
 - Replace the weapon in the previous loadout with BDW gun
-- Run your best augment until the 3 hour mark. Check [GO](https://gmiclotte.github.io/gear-optimizer/#/) to [find your best augment](/en/guides/go-guide#augments)
+- Run your best augment until the 3 hour mark. Check [GO](https://gmiclotte.github.io/gear-optimizer/#/) to [find your best augment](/ngu-guide/en/guides/go-guide#augments)
 - Put Magic into Blood: Run your best ritual <20m once and cast Counterfeit Gold, then run your best ritual for the remaining time and cast Blood Number. Use Blood Digger
 
 **3:00-23:00: Normal NGU / AT Phase**
@@ -80,7 +80,7 @@ Here’s a standard 24 hour rebirth schedule while you’re climbing up to Boss 
 - Eat Fruit of Power A and turn on stat digger to push bosses at the end of each rebirth
 - If you’re at Boss 124 at the end of a RB, you can spend all your FoK EXP on Rich Jerks
     - 100k → 1m can get you another boss to start the T7 Unlock Puzzle a day earlier
-- Upon defeating Boss 125, make a backup save before starting the [T7 Unlock Puzzle](/en/spoilers/t7-puzzle)
+- Upon defeating Boss 125, make a backup save before starting the [T7 Unlock Puzzle](/ngu-guide/en/spoilers/t7-puzzle)
 
 After you kill T7 and can reach Boss 125 within an hour, you’ve passed Early Evil!   
 Buy Grey Heart and prep for CBlock 3. Post-CBlock, resume 24h RBs focusing Adventure stats
@@ -164,7 +164,7 @@ Unlocked by defeating Boss 100
     - 1-Hit stats: 2.27 Quadrillion (2.27e15) Power
 
 ### T7: Greasy Nerd
-Unlocked by defeating Boss 125 and completing the [T7 Unlock Puzzle](/en/spoilers/t7-puzzle)
+Unlocked by defeating Boss 125 and completing the [T7 Unlock Puzzle](/ngu-guide/en/spoilers/t7-puzzle)
 Manual stats: 140T/90T (140e12/90e12), Idle: 300T/200T, AK: 500T/250T/5T
 Can be killed while wearing Choco gear, then T7 gear will be better than EV/PPPL gear
 Killing T7 drops Incriminating Evidence, which can be consumed to unlock R3 and Hacks
@@ -216,7 +216,7 @@ Day 1:
 
 Day 2+ onwards:
 - Defeat Boss 166 to unlock T8
-- Complete the [T8 Unlock Puzzle](/en/spoilers/t8-puzzle)
+- Complete the [T8 Unlock Puzzle](/ngu-guide/en/spoilers/t8-puzzle)
 - Idle Meta → Snipe IDP → Idle IDP → 1-Shot Max Meta → Idle IDP until T8 kill
 - Wear D20, Tutu, Voodoo Doll while farming to help with eBeard growth
 - Stay in ITOPOD overnight/offline to farm for the Adventure Rich Perk
@@ -230,7 +230,7 @@ Unlocked by defeating Boss 166
 - Mostly used for P/T to snipe T8
 
 ### T8: The Godmother
-Unlocked by defeating Boss 166 and completing the [T8 Unlock Puzzle](/en/spoilers/t8-puzzle)
+Unlocked by defeating Boss 166 and completing the [T8 Unlock Puzzle](/ngu-guide/en/spoilers/t8-puzzle)
 - T8’s main mechanic is a series of quick deadly explosions that must be blocked
 - Similar to T5, T8 cannot be idled and must be either manually killed or AutoKilled
 - With AT Block levels (>99%) and the right timing, almost all damage can be mitigated

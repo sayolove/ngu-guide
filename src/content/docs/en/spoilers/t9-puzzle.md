@@ -11,7 +11,7 @@ description: "T9 Puzzle"
 6. Enter the Mega Lands and farm a full set of gear (level does not matter). Defeat the Mega Lands boss Wahwee wearing a full set of Mega gear. If done correctly, you’ll receive ‘Buster of the Exile’
 7. Assign all but 1 of your R3 into ‘Hack Hack’ and wait one minute. If done correctly, you’ll receive ‘Antennae of the Exile’
 8. Assemble the Exile in the top left corner of the first page of your inventory
-![Exile](/exile.png)
+![Exile](/ngu-guide/exile.png)
 9. Enter the Sewers and ctrl + click any unprotected piece. If done correctly, this should unlock The Exile to be defeated like normal
 
 **Note: You should keep all the parts of the Exile.**

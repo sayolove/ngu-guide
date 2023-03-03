@@ -30,9 +30,9 @@ description: "guffs"
 
 The bonus calculation depends on the level of the MacGuffin (L), and the time factor (T):
 
-| Before 30 minutes            | At 30 minutes | After 30 minutes               |
-| :--------------------------: | :-----------: | :----------------------------: |
-| ![Guff Pre 30](/guffPre.png) | T = 1         | ![Guff Post 30](/guffPost.png) |
+| Before 30 minutes                      | At 30 minutes | After 30 minutes                         |
+| :------------------------------------: | :-----------: | :--------------------------------------: |
+| ![Guff Pre 30](/ngu-guide/guffPre.png) | T = 1         | ![Guff Post 30](/ngu-guide/guffPost.png) |
 
 Most MacGuffins reach a softcap at Level 100, which is why certain bonuses have two formulas listed. The first formula applies for Levels 0-100, then the second formula for any level past 100.
 - If there is no second formula, that MacGuffin does not have a softcap, so the first formula applies for all levels

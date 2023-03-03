@@ -5,7 +5,7 @@ description: "HACK-ACK-ACK"
 
 Endorm Solor’s quick hackday planning guide
 
-![Endorm Solor Hackday Guide](/hackday.png)
+![Endorm Solor Hackday Guide](/ngu-guide/hackday.png)
 
 *Thanks to CBD for his original hackday guide that this guide is mostly based on*
 

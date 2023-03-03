@@ -31,7 +31,7 @@ As skills are unlocked in Basic Training, the same skill will be unlocked in Adv
     - The cap for next rebirth will be colored green when max cap reduction is reached
 - Each skill’s cap can be reduced to 1 energy, then only needing 12 energy for all skills
 
-![Basic Training Cap Reduction](/btcap.png)
+![Basic Training Cap Reduction](/ngu-guide/btcap.png)
 
 ## Tips and Tricks
 

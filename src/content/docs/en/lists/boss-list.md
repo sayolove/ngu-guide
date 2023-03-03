@@ -5,25 +5,25 @@ description: "Boss List"
 
 ## Normal
 
-| Boss \# | Feature                                           | Adventure Zone       | Titan                  |
-| :-----: | :-----------------------------------------------: | :------------------: | :--------------------: |
-| 4       | [Adventure Mode](/en/mechanics/adventure)         | Tutorial Zone        |                        |
-| 7       |                                                   | Sewers               |                        |
-| 17      | [Augmentation](/en/mechanics/augmentation)        | Forest               |                        |
-| 30      | [Broken Time Machine](/en/mechanics/time-machine) |                      |                        |
-| 37      | [Blood Magic](/en/mechanics/blood-magic)          | Cave of Many Things  |                        |
-| 48      |                                                   | The Sky              |                        |
-| 58      | [Challenges](/en/mechanics/challenges)            | High Security Base   | Gordon Ramsey Bolton   |
-| 66      |                                                   | Clock Dimension      | Grand Corrupted Tree   |
-| 74      |                                                   | The 2D Universe      |                        |
-| 82      |                                                   | Ancient Battlefield  | Jake From Accounting   |
-| 90      |                                                   | A Very Strange Place |                        |
-| 100     |                                                   | Mega Lands           | UUG, The Unmentionable |
-| 108     |                                                   | The Beardverse       |                        |
-| 116     |                                                   | Badly Drawn World    | Walderp                |
-| 124     |                                                   | Boring-Ass Earth     |                        |
-| 132     |                                                   |                      | The Beast              |
-| 137     |                                                   | Chocolate World      |                        |
+| Boss \# | Feature                                                     | Adventure Zone       | Titan                  |
+| :-----: | :---------------------------------------------------------: | :------------------: | :--------------------: |
+| 4       | [Adventure Mode](/ngu-guide/en/mechanics/adventure)         | Tutorial Zone        |                        |
+| 7       |                                                             | Sewers               |                        |
+| 17      | [Augmentation](/ngu-guide/en/mechanics/augmentation)        | Forest               |                        |
+| 30      | [Broken Time Machine](/ngu-guide/en/mechanics/time-machine) |                      |                        |
+| 37      | [Blood Magic](/ngu-guide/en/mechanics/blood-magic)          | Cave of Many Things  |                        |
+| 48      |                                                             | The Sky              |                        |
+| 58      | [Challenges](/ngu-guide/en/mechanics/challenges)            | High Security Base   | Gordon Ramsey Bolton   |
+| 66      |                                                             | Clock Dimension      | Grand Corrupted Tree   |
+| 74      |                                                             | The 2D Universe      |                        |
+| 82      |                                                             | Ancient Battlefield  | Jake From Accounting   |
+| 90      |                                                             | A Very Strange Place |                        |
+| 100     |                                                             | Mega Lands           | UUG, The Unmentionable |
+| 108     |                                                             | The Beardverse       |                        |
+| 116     |                                                             | Badly Drawn World    | Walderp                |
+| 124     |                                                             | Boring-Ass Earth     |                        |
+| 132     |                                                             |                      | The Beast              |
+| 137     |                                                             | Chocolate World      |                        |
 
 ## Evil
 

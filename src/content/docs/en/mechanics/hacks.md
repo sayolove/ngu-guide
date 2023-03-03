@@ -17,7 +17,7 @@ Hacks provide permanent bonuses to various features and can be leveled up by all
 
 ## Hack Bonus
 
-Total Bonus = ![Hack Bonus](/hackBonus.png)
+Total Bonus = ![Hack Bonus](/ngu-guide/hackBonus.png)
 
 | Hack Type          | Effect per level | Milestone Bonus | Levels per milestone <br> (Max reduction) |
 | :----------------: | :--------------: | :-------------: | :---------------------------------------: |
@@ -39,7 +39,7 @@ Total Bonus = ![Hack Bonus](/hackBonus.png)
 
 ## Hack Speed
 
-The time it takes for a Hack to level up: ![Hack Speed](/hackSpeed.png)
+The time it takes for a Hack to level up: ![Hack Speed](/ngu-guide/hackSpeed.png)
 
 | Hack Type          | Speed Divider | Hardcap Level | Max Bonus |
 | :----------------: | :-----------: | :-----------: | :-------: |

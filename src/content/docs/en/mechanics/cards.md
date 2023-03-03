@@ -5,7 +5,7 @@ description: "Cards"
 
 Cards are a feature unlocked by defeating T9, The Exile. Over time, cards will drop into your deck. Each card has a type, rarity, tier, and mayo cost. Upon casting a card, it will consume the listed mayo and provide a permanent bonus to the listed feature.
 
-![Card Example](/card.png)
+![Card Example](/ngu-guide/card.png)
 
 In this card, the 7 in the top left is the card tier, the 2, 1, and 1 on the right are the mayo costs. PP Gain is the card type, and crappy is the rarity. All 4 of these factors contribute to the overall effect being +0.494% pp gain. The base time for a card to drop is 1 hour, but you can decrease this with perks/quirks/wishes.
 

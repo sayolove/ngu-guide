@@ -165,7 +165,7 @@ If you’ve already completed all 5 of your basic challenges earlier, skip this 
 - After obtaining some AVSP gear, defeating Boss 100, and starting T4’s unlock puzzle, it can be a good time to complete Micro-CBlock: 5 Basic Challenges and 1 24H Challenge
 - During Micro-CBlock, you complete challenges quickly by focusing on features that push bosses and increase your Number, like Wandoos, Augmentations, Time Machine, and Blood Number. It’s suggested to do 15 minute rebirths to optimize number gain.
     - During your challenges, you can also be progressing the T4 unlock puzzle.
-    - For T4 unlock puzzle spoilers, see [Secrets & Spoilers: T4 Unlock Puzzle](/en/spoilers/t4-puzzle)
+    - For T4 unlock puzzle spoilers, see [Secrets & Spoilers: T4 Unlock Puzzle](/ngu-guide/en/spoilers/t4-puzzle)
 
 ### LRB to Mega/T4
 After defeating Boss 100, getting some AVSP gear, and finishing the Micro-CBlock, it can be a good time to do your first long rebirth (LRB)
@@ -190,7 +190,7 @@ Unlocked by defeating Boss 100
 - Suggested stats: 400k/300k P/T
 - Spawn timer: 2 hours
 - Becomes invincible after his first attack with exponential power growth unless you solve a puzzle. Try fighting T4 in Adventure and read the battle log to start the puzzle
-    - For spoilers, see [Secrets & Spoilers: T4 Unlock Puzzle](/en/spoilers/t4-puzzle)
+    - For spoilers, see [Secrets & Spoilers: T4 Unlock Puzzle](/ngu-guide/en/spoilers/t4-puzzle)
 - Doesn’t drop a set of gear, drops a set of 5 rings (accessories)
 
-Once you’ve defeated T4, you’ve graduated from Chapter 2! You can proceed to [Chapter 3: T4-BAE](/en/chapters/chapter-3)
+Once you’ve defeated T4, you’ve graduated from Chapter 2! You can proceed to [Chapter 3: T4-BAE](/ngu-guide/en/chapters/chapter-3)

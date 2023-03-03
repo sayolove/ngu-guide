@@ -26,4 +26,4 @@ After killing one of the first four forms, Walderp will hide in a random menu
     - The timer for the next form’s spawn starts after clicking on Walderp
 
 How Walderp looks in the menu:   
-![Walderp](/walderp.png)
+![Walderp](/ngu-guide/walderp.png)

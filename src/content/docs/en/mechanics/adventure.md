@@ -60,7 +60,7 @@ Whenever an enemy is killed in adventure, they have a chance of dropping loot in
     - From Chocolate World onwards, Drop Chance is cube-rooted
 
 
-Link to [Reference Lists: Adventure Zone List](/en/lists/zone-list) (contains wiki links to zones/sets)
+Link to [Reference Lists: Adventure Zone List](/ngu-guide/en/lists/zone-list) (contains wiki links to zones/sets)
 
 ## Titans
 
@@ -77,7 +77,7 @@ Titans are stronger bosses in Adventure, each having their own adventure zone an
 - Being defeated by a Titan sends you to the Safe Zone with no penalties
 - All Titans grow in strength by 1% per attack
 
-For a full list of Titans (Evil/Sad spoilers), see the [Reference Lists: Titan List](/en/lists/titan-list)
+For a full list of Titans (Evil/Sad spoilers), see the [Reference Lists: Titan List](/ngu-guide/en/lists/titan-list)
 
 ## ITOPOD
 

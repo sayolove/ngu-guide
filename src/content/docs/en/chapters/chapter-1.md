@@ -125,7 +125,7 @@ Early on, it’s suggested to do 30 minute rebirths (30m RBs) as often as possib
     - With enough rebirths leveling up BT skills, you can get each skill to run at max speed with 1 energy each, freeing up your energy to be used for other uses
     - Within 30 minutes, focus each BT skill until hovering over the skill shows that you’ve reached maximum cap reduction
 
-![Basic Training Cap Reduction](/btcap.png)
+![Basic Training Cap Reduction](/ngu-guide/btcap.png)
 
 ## Unlockable Mechanics
 
@@ -246,7 +246,7 @@ Early on, it’s suggested to do 30 minute rebirths (30m RBs) as often as possib
     - T1 has a random chance to inflict a bleed, which deals constant damage over time
     - These bleeds can stack, eventually negating your HP Regen
     - As a result, T1 fight can be somewhat RNG-dependent, you may get unlucky with a lot of bleeds and just not be able to survive long enough to kill T1
-- Once you’ve defeated Titan 1, you’ve graduated from Chapter 1! You can move to [Chapter 2](/en/chapters/chapter-2)
+- Once you’ve defeated Titan 1, you’ve graduated from Chapter 1! You can move to [Chapter 2](/ngu-guide/en/chapters/chapter-2)
 
 ## FAQ
 
