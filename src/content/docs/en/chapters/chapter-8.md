@@ -95,6 +95,9 @@ Adapted from [Deceptive Thinker’s SAD strategy](https://docs.google.com/docume
     - Focus PP/QP on Adventure Perks/Quirks
     - Can extend the LRB to max WW and getting a single secret drop to throw into daycare
 - After maxing BTS gear and obtaining Corgi, do a Snugday
+- Video of Rust killing T10v1:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N-8YA3wb8ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - Cooking: Wear the GRB set while eating meals. The set doesn’t need to be maxed/boosted
 - T10v2 wall is 2-3 weeks optimally with guff RBs

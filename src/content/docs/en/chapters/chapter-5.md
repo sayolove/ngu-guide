@@ -234,3 +234,6 @@ Unlocked by defeating Boss 166 and completing the [T8 Unlock Puzzle](/ngu-guide/
 - T8’s main mechanic is a series of quick deadly explosions that must be blocked
 - Similar to T5, T8 cannot be idled and must be either manually killed or AutoKilled
 - With AT Block levels (>99%) and the right timing, almost all damage can be mitigated
+- Video of Rust killing T8:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YcrW20099Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

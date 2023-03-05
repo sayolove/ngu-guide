@@ -193,5 +193,8 @@ After you finish CBlock1, Yggdrasil starts to become a lot more important. After
     - Farm as many levels of BDW gear as needed to reach BAE snipe stats (~180m power)
     - Snipe a full set of Level 1 BAE gear (aim for 1-2% DC to snipe, run NGU DC if needed)
     - Once you have around 650m-700m power, you should be ready to attempt T6
+    - Video of Rust killing T6:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YcrW20099Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Once you’ve killed T6, you’ve graduated from Chapter 3 and can proceed to [Chapter 4: T6](/ngu-guide/en/chapters/chapter-4)

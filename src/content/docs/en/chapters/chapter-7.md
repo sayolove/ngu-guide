@@ -148,7 +148,9 @@ Finish up any previous lists first. By this point, you should have a general und
     - Keep doing 24H rbs until you can reach Boss 290 and 50 sept (5e25) power, then LRB
 - v4 LRB: Pop E/M/R3 betas and push to the End of Evil
     - v4 fight adds Life Drain, which makes the Exile deal 2x damage and heal itself 10%
-    - Rust killing 9v4 way under recommended stats: [NGU Idle T9v4 1.56/0.83](https://www.youtube.com/watch?v=sPZl9v8gCTM)
     - Drops: Black Lotus is a very strong wish item, Energy Buster is a very strong hack item
+    - Rust killing 9v4 way under recommended stats:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sa-5RAHM0-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Once you’ve defeated Boss 300 and killed 9v4 24 times, it’s time to go Sadistic. 

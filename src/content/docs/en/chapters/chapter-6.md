@@ -274,7 +274,8 @@ After mNGU, the order becomes less rigid, but a rough order: Gold > DC > EBar > 
     - If you want to get better at manual fighting, T9 can be a great opportunity to practice
     - If you don’t, just wait until you have higher stats
 - Rust defeated T9 with 15 Sext / 7 Sext (15e21 / 7e21) P/T without JRPG max
-    - [Video: NGU Idle T9v1 1.5/0.7 (without JRPG Max)](https://www.youtube.com/watch?v=sPZl9v8gCTM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sPZl9v8gCTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Some manual fighting tips:
 - Before the fight, use Parry / Charge in the Safe Zone, then wait until all skills are available
