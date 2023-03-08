@@ -12,8 +12,8 @@ import SidebarToggle from './SidebarToggle';
 		</div>
 		<div class="logo flex">
 			<a href="/ngu-guide/en/intro">
-				<img src="/ngu-guide/favicon.jpg" width="64px">
-				<h1>{SITE.title ?? 'NGU Idle Guide'}</h1>
+				<img src="/ngu-guide/favicon.jpg" width="100px">
+				<h1>&nbsp;{SITE.title ?? 'NGU Idle Guide'}</h1>
 			</a>
 		</div>
 	</nav>
@@ -72,6 +72,10 @@ import SidebarToggle from './SidebarToggle';
 		margin: 0;
 	}
 
+	.logo img {
+		margin-top: 0.25em;
+	}
+
 	.nav-wrapper {
 		display: flex;
 		align-items: center;
@@ -94,6 +98,10 @@ import SidebarToggle from './SidebarToggle';
 			z-index: 0;
 		}
 
+		.logo a {
+			margin: -0.5em 0.75em;
+		}
+
 		.logo h1 {
 			display: initial;
 		}
@@ -103,27 +111,7 @@ import SidebarToggle from './SidebarToggle';
 		}
 	}
 
-	/** Style Algolia */
-	:root {
-		--docsearch-primary-color: var(--theme-accent);
-		--docsearch-logo-color: var(--theme-text);
-	}
 
-	.search-item {
-		display: none;
-		position: relative;
-		z-index: 10;
-		flex-grow: 1;
-		padding-right: 0.7rem;
-		display: flex;
-		max-width: 200px;
-	}
-
-	@media (min-width: 50em) {
-		.search-item {
-			max-width: 400px;
-		}
-	}
 </style>
 
 <style is:global>
