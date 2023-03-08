@@ -76,6 +76,7 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Known Bugs', link: 'ngu-guide/en/lists/bug-list' },
 		],
 		'Secrets & Spoilers': [
+			{ text: 'Achievements', link: 'ngu-guide/en/spoilers/achievements' },
 			{ text: 'Flubber', link: 'ngu-guide/en/spoilers/flubber' },
 			{ text: 'T4 Puzzle', link: 'ngu-guide/en/spoilers/t4-puzzle' },
 			{ text: 'T5 Fight', link: 'ngu-guide/en/spoilers/t5-fight' },
