@@ -51,14 +51,22 @@ Stats are expressed in Engineering notation for Evil/Sad, some relevant conversi
 
 ## Sadistic
 
-| Zone                                                                           | Boss \# | Gear Set                                                                    | Manual Stats   | Idle Stats    | Idle w/ BM    |
-| :----------------------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------: | :------------: | :-----------: | :-----------: |
-| [Back To School](https://ngu-idle.fandom.com/wiki/Back_To_School)              | 125     | [Back To School Set](https://ngu-idle.fandom.com/wiki/Back_To_School_(set)) | 500e24/250e24  | 1.6e27/940e24 | 4.4e27/1.4e27 |
-| [The West World](https://ngu-idle.fandom.com/wiki/The_West_World)              | 150     | [Western Set](https://ngu-idle.fandom.com/wiki/Western_(set))               | 2.65e27/830e24 | 8e27/3.5e27   | 19e27/9e27    |
-| [The Breadverse](https://ngu-idle.fandom.com/wiki/The_Breadverse)              | 208     | [Bread Set](https://ngu-idle.fandom.com/wiki/Bread_(set))                   | 140e27/24e27   | 430e27/240e27 | 1.2e30/270e27 |
-| [That 70’s Zone](https://ngu-idle.fandom.com/wiki/That_70%27s_Zone)            | 216     | [Disco Set](https://ngu-idle.fandom.com/wiki/Disco_(set))                   | 510e27/75e27   | 1.5e30/650e27 | 4e30/1e30     |
-| [The Halloweenies](https://ngu-idle.fandom.com/wiki/The_Halloweenies)          | 224     | [Halloweenie Set](https://ngu-idle.fandom.com/wiki/Halloweenie_(set))       | 1.5e30/400e27  | 3.4e30/2.6e30 | 13e30/2e30    |
-| [Construction Zone](https://ngu-idle.fandom.com/wiki/Construction_Zone)        | 232     | [Construction Set](https://ngu-idle.fandom.com/wiki/Construction_(set))     | 52e30/20e30    | 285e30/75e30  | 625e30/90e30  |
-| [DUCK DUCK ZONE](https://ngu-idle.fandom.com/wiki/DUCK_DUCK_ZONE)              | 240     | [Duck Set](https://ngu-idle.fandom.com/wiki/Duck_(set))                     | 128e30/32e30   | 670e30/180e30 | 1.2e33/220e30 |
-| [The Nether Regions](https://ngu-idle.fandom.com/wiki/The_Nether_Regions)      | 248     | [Dutch Set](https://ngu-idle.fandom.com/wiki/Dutch_(set))                   | 315e30/84e30   | 1.7e33/440e30 | 2.9e33/500e30 |
-| [The Aethereal Sea](https://ngu-idle.fandom.com/wiki/The_Aethereal_Sea_Part_1) | 269     | [Pirate Set](https://ngu-idle.fandom.com/wiki/Pirate_(set))                 | 17e33/6e33     | 47e33/34e33   | 122e33/54e33  |
+| Zone                                                                           | Boss \# | Gear Set                                                                    | Manual Stats   | Idle Stats      | Idle w/ BM      |
+| :----------------------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------: | :------------: | :-------------: | :-------------: |
+| [Back To School](https://ngu-idle.fandom.com/wiki/Back_To_School)              | 125     | [Back To School Set](https://ngu-idle.fandom.com/wiki/Back_To_School_(set)) | 500e24/250e24  | 1.6e27/940e24   | 4.4e27/1.4e27   |
+| [The West World](https://ngu-idle.fandom.com/wiki/The_West_World)              | 150     | [Western Set](https://ngu-idle.fandom.com/wiki/Western_(set))               | 2.65e27/830e24 | 8e27/3.5e27     | 19e27/9e27      |
+| [The Breadverse](https://ngu-idle.fandom.com/wiki/The_Breadverse)              | 208     | [Bread Set](https://ngu-idle.fandom.com/wiki/Bread_(set))                   | 140e27/24e27   | 430e27/240e27\* | 1.2e30/270e27\* |
+| [That 70’s Zone](https://ngu-idle.fandom.com/wiki/That_70%27s_Zone)            | 216     | [Disco Set](https://ngu-idle.fandom.com/wiki/Disco_(set))                   | 510e27/75e27   | 1.5e30/650e27\* | 4e30/1e30\*     |
+| [The Halloweenies](https://ngu-idle.fandom.com/wiki/The_Halloweenies)          | 224     | [Halloweenie Set](https://ngu-idle.fandom.com/wiki/Halloweenie_(set))       | 1.5e30/400e27  | 3.4e30/2.6e30\* | 13e30/2e30\*    |
+| [Construction Zone](https://ngu-idle.fandom.com/wiki/Construction_Zone)        | 232     | [Construction Set](https://ngu-idle.fandom.com/wiki/Construction_(set))     | 52e30/20e30    | 285e30/75e30    | 625e30/90e30    |
+| [DUCK DUCK ZONE](https://ngu-idle.fandom.com/wiki/DUCK_DUCK_ZONE)              | 240     | [Duck Set](https://ngu-idle.fandom.com/wiki/Duck_(set))                     | 128e30/32e30   | 670e30/180e30   | 1.2e33/220e30   |
+| [The Nether Regions](https://ngu-idle.fandom.com/wiki/The_Nether_Regions)      | 248     | [Dutch Set](https://ngu-idle.fandom.com/wiki/Dutch_(set))                   | 315e30/84e30   | 1.7e33/440e30   | 2.9e33/500e30   |
+| [The Aethereal Sea](https://ngu-idle.fandom.com/wiki/The_Aethereal_Sea_Part_1) | 269     | [Pirate Set](https://ngu-idle.fandom.com/wiki/Pirate_(set))                 | 17e33/6e33     | 47e33/34e33     | 122e33/54e33    |
+
+\* See the following charts for better crowd-sourced estimates for Idle:
+
+| Zone             | Idle w/o BM                                           | Idle w/ BM                                       |
+| :--------------: | :---------------------------------------------------: | :----------------------------------------------: |
+| The Breadverse   | ![Breadverse Idle No BM](/ngu-guide/breadNoBM.png)    | ![Breadverse Idle BM](/ngu-guide/breadBM.png)    |
+| That 70's Zone   | ![70s Idle No BM](/ngu-guide/70sNoBM.png)             | ![70s Idle BM](/ngu-guide/70sBM.png)             |
+| The Halloweenies | ![Halloweenies Idle No BM](/ngu-guide/weenieNoBM.png) | ![Halloweenies Idle BM](/ngu-guide/weenieBM.png) |

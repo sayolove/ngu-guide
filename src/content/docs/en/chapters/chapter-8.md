@@ -102,6 +102,15 @@ Adapted from [Deceptive Thinker’s SAD strategy](https://docs.google.com/docume
 - Cooking: Wear the GRB set while eating meals. The set doesn’t need to be maxed/boosted
 - T10v2 wall is 2-3 weeks optimally with guff RBs
 - Snipe Bread/70s mostly for gold, sets aren’t worth using until you can idle with BM
+    - Breadverse/70s Idle stats (courtesy of dcnairb): 
+
+| Breadverse Idle w/o BM                             | Breadverse Idle w/ BM                         |
+| :------------------------------------------------: | :-------------------------------------------: |
+| ![Breadverse Idle No BM](/ngu-guide/breadNoBM.png) | ![Breadverse Idle BM](/ngu-guide/breadBM.png) |
+
+| 70s Zone Idle w/o BM                      | 70s Zone Idle w/ BM                  |
+| :---------------------------------------: | :----------------------------------: |
+| ![70s Idle No BM](/ngu-guide/70sNoBM.png) | ![70s Idle BM](/ngu-guide/70sBM.png) |
 
 ### T11
 - 2k adventure guff is a good point to start T11 LRB (~halfway between bread and 70s)
@@ -110,8 +119,13 @@ Adapted from [Deceptive Thinker’s SAD strategy](https://docs.google.com/docume
     - Your wishes will take a hit, but this is fine
 - Don’t bother with Halloweenies until post-T11, extend LRB to max the set
     - Set bonus is ridiculously good, worth taking a few days to knock out
-- Max T11 set, then do a CBlock for any remaining challenges with rewards (blinds/trolls)
+    - Halloweenies Idle stats (courtesy of dcnairb):
 
+| Halloweenies Idle w/o BM                              | Halloweenies Idle w/ BM                          |
+| :---------------------------------------------------: | :----------------------------------------------: |
+| ![Halloweenies Idle No BM](/ngu-guide/weenieNoBM.png) | ![Halloweenies Idle BM](/ngu-guide/weenieBM.png) |
+
+- Max T11 set, then do a CBlock for any remaining challenges with rewards (blinds/trolls)
 - T11v2 stats came around 3400 adv guff, around a full month after beating T11
 
 ### T12
