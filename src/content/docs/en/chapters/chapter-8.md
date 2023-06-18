@@ -85,6 +85,19 @@ Buying the BIG CHONKER CARDS Quirk unlocks Chonker drops, cards with guaranteed 
 - For R3, you can stop buying R3 around 50k-60k power (cap in ratio)
     - R3 hardcaps are the same as E/M, but 50k-60k R3 is enough to finish all hacks/wishes
 
+## Items to Keep
+Note: This is NOT an exhaustive list of good items or the only items to keep. These are just items obtainable in Sadistic that are worth acknowledging. Most E/M/R3/Wish items are not included in this list, use GO to keep track of items that fit in your loadouts. Generally, any item with a unique special bonus (AT / wandoos / respawn / cooldown / NGUs) is likely worth keeping.
+- Keep Forever:
+    - Red Shirt (respawn)
+    - Carbon Rod (ygg yield)
+    - Duck-t Tape (EM cap) - eventually you can reach EM cap hardcap with this as only EM cap item
+    - Compass (respawn)
+- Keep Temporarily: 
+    - Keep any item with R3 or Hack Speed stats until it no longer fits in a full Hack loadout
+    - Keep any item with NGU speed until it no longer fits in a NGU loadout
+    - Keep bar items for a while because cap times without them will get very long
+    - Bread Bowl Helmet + Vinyl Record Shard might be holding onto while you need them to reach EM cap hardcap
+
 ## Adventure Zones
 Adapted from [Deceptive Thinker’s SAD strategy](https://docs.google.com/document/d/14rsevmwHKHwwIfbKknc6yAjOlglOFXbw7qr6GhMNdnM/edit)
 

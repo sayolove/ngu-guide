@@ -126,6 +126,21 @@ After mNGU, the order becomes less rigid, but a rough order: Gold > DC > EBar > 
 - After the first Digger slot, any extras are mostly QoL. You never need more than 9 total
 - After Typo, start saving 750k AP for T9
 
+## Items to Keep
+Note: This is NOT an exhaustive list of good items or the only items to keep. These are just items obtainable in this chapter that may come in handy in future chapters. Most E/M/R3/Wish items are not included in this list, use GO to keep track of items that fit in your loadouts. Generally, any item with a unique special bonus (AT / wandoos / respawn / cooldown / NGUs) is likely worth keeping.
+- Keep Forever:
+    - Garrote (daycare)
+    - Godmother's Wand (ygg yield)
+    - Ass-cessory (ygg yield)
+    - Anime Hero Wig (ygg yield)
+    - Pink Heart (daycare, wish speed)
+- Keep Temporarily:
+    - Keep any item with R3 or Hack Speed stats until it no longer fits in a full Hack loadout
+    - Cocktail (wandoos, seed gain)
+    - Malf Slammer (EMR3) - useful until early Sad
+    - Godmother's Ring (drop chance) - drop chance becomes a rarer stat
+    - Cursor (drop chance) - drop chance becomes a rarer stat
+
 ## FAQ
 - How long should my rebirths be?
     - For the rest of the game (unless stated otherwise), you should be doing 24 hour rebirths. Aim to BB AT, Normal NGUs (unless running Evils), and Beards all rebirth.

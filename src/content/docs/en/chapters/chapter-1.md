@@ -273,3 +273,6 @@ Early on, it’s suggested to do 30 minute rebirths (30m RBs) as often as possib
 
 - How do I get more AP?   
     - By spending real-world money, or just slowly by playing the game. Your AP income will increase as you progress further in Adventure, as you’ll gain access to more sources
+
+- What items should I keep?
+	- All the items from this chapter can be replaced. Starting from the next chapter, some items will provide unique specials that are rare to find on items, but most of the gear found in this chapter are relatively common stats.

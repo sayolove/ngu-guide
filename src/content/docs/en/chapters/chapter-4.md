@@ -78,6 +78,19 @@ Optional Evil Prep: (Don’t delay Evil for these)
 - Advanced Training Temp Level Banks 3
 - Ooh, Another Digger Slot!
 
+## Items to Keep
+Note: This is NOT an exhaustive list of good items or the only items to keep. These are just items obtainable in this chapter that may come in handy in future chapters. Most E/M items are not included in this list, use GO to keep track of items that fit in your loadouts. Generally, any item with a unique special bonus (AT / wandoos / respawn / cooldown / NGUs) is likely worth keeping.
+- Keep Forever:
+    - Apple (ygg yield, seed gain)
+    - Triple Flubber (respawn)
+    - Candy Corn Necklace (seed gain)
+    - Green Heart (respawn, drop chance, beard speed)
+- Keep Temporarily:
+    - Stealthiest (NGUs) - useful until late Chapter 5
+    - Bald Egg (wandoos) - useful until late Chapter 5
+    - Voodoo Doll (beard speed) - useful until late Chapter 6
+    - Lemmiwinks - keep it until Sadistic
+
 ## Adventure Zones
 Starting from Titan 6, Titans will have 4 versions: Easy (v1), Normal (v2), Hard (v3), Brutal (v4). This chapter mostly consists of beating T6 versions: v1 → v2 → CBlock 2 → v3 → v4 → Choco. Expect to spend at least a week between each version of T6, you should be settling into a regular rhythm of 24 hour rebirths focusing NGUs, Yggdrasil, and Beard growth.
 
@@ -105,7 +118,8 @@ Starting from Titan 6, Titans will have 4 versions: Easy (v1), Normal (v2), Hard
 Mandatory (cannot enter Evil without satisfying all the below)
 - T6v4 defeated once
 - Boss 300 defeated once
-- 1m% from Rich Jerks/Perks/Quirks combined
+- 1m% in Attack Boost from Rich Jerks/Perks/Quirks combined
+	- Typically obtained with 100k Rich Jerks (~300k EXP), 500% Rich Perks (40 PP), and the Newbie Stat Perk (1 PP)
 
 Highly Recommended (wait until having these before going to Evil)
 - Double Basic Training (Perk)

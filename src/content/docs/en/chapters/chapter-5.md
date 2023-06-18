@@ -144,6 +144,24 @@ Adv > EM Pow > EM Cap > EM NGUs > Drop > EM Bars > Gold > Augs > Stats > EM Wand
 - Extended Quest Bank
 - Beard Slot 6
 
+## Items to Keep
+Note: This is NOT an exhaustive list of good items or the only items to keep. These are just items obtainable in this chapter that may come in handy in future chapters. Most E/M/R3 items are not included in this list, use GO to keep track of items that fit in your loadouts. Generally, any item with a unique special bonus (AT / wandoos / respawn / cooldown / NGUs) is likely worth keeping.
+- Keep Forever:
+    - Pretty Pink Bow (daycare, quest drops)
+    - Creepy Doll (respawn, daycare)
+    - Bodypillow (respawn)
+    - Bag of Trash (daycare)
+    - Infinity Charm (move cooldown)
+    - Party Whistle (ygg yield)
+    - Green Heart (respawn, drop chance, beard speed)
+- Keep Temporarily:
+    - Edgy Magicite Crystal (NGU speed) - useful through early Sad
+    - Calculator (NGU speed) - useful through early Sad
+    - Meeple (aug speed)
+    - Panties (NGU speed) - useful through early Sad
+    - 69 Charm (wandoos)
+    - Grey Heart (R3) - until it no longer fits into a Hack loadout
+
 ## Adventure Zones
 
 ### Evilverse (EV)

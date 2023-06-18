@@ -29,9 +29,10 @@ If you’re starting your playthrough, you can head over to [Chapter 1](/ngu-gui
 I spent the bulk of 3 months writing most of the content in this guide, editing contributions from co-writers/beta readers, and formatting it into a Google Doc and a website. If you appreciate all the content and feel a little generous, I’m [accepting tips on Ko-fi](https://ko-fi.com/sayolove). Thank you kindly!
 
 - sayo - main writer, wrote most sections, edited contributions, formatting
-- Jetski - main co-writer, wrote all the Evil Chapters + wishes/cards/hackday sections, helped gather sad zone stats
+- Jetski - main co-writer, wrote all the Evil Chapters + wishes/cards/hackday sections, helped gather sad zone stats, wrote the Items to Keep update
 - Deceptive Thinker - co-writer, wrote Chapters 3-4 and the sad update
 - dcnairb - co-writer, wrote AT/TM sections
+- Cheetah-shooter: wrote Achievements section
 
 Beta Readers: Rust, Grumia, Salad, Tega, SCRWarEagle, Dorin, Stoney, Companion, bobbers
 - Special thanks to Rust and Grumia for providing notable updates to the guide in beta
@@ -45,6 +46,6 @@ If you have any feedback to provide, including suggested changes, please fill ou
 - V0.1 - 09/14/2022: Start of working on the guide
 - V0.2 - 11/27/2022: First draft complete, after 2.5 months of writing
 - V1.0 - 12/02/2022: Public release
-- V1.1 - 01/07/2023: Sad update
+- V1.1 - 01/07/2023: Deceptive Thinker's Sad update
 - V2.0 - 03/03/2023: Website public release
-
+- V2.1 - 06/18/2023: Jetski's 'Items to Keep' update

@@ -70,21 +70,19 @@ Your main goal is to increase seed income, so you should harvest most fruits bef
 - Faster NGU Energy (buy until you reach CBlock1)
 
 ## Items to Keep
-Keep Forever
-- Sands of Time (Move Cooldown)
-- Ring of Might (Move Cooldown)
-- Ring of Greed (Respawn)
-- Stapler (Respawn)
-- stooB s’rerednaW (seed gain)
-- UUG’s ‘Special’ Ring (seed gain) 
-
-Keep until no longer used by GO:
-- Badly Drawn Smiley Face 
-- Badly Drawn Gun
-- Random Crayons
-- Ring of Utility
-- Fanny Pack
-- Dorky Glasses
+Note: This is NOT an exhaustive list of good items or the only items to keep. These are just items obtainable in this chapter that may come in handy in future chapters. Most E/M items are not included in this list, use GO to keep track of items that fit in your loadouts. Generally, any item with a unique special bonus (AT / wandoos / respawn / cooldown / NGUs) is likely worth keeping.
+- Keep Forever:
+    - Ring of Greed (respawn, drop chance)
+    - Ring of Might (move cooldown, respawn)
+    - stoob s’rerednaW (seed gain)
+    - UUG’s Special Ring (seed gain)
+    - Green Heart (respawn, drop chance, beard speed)
+- Keep Temporarily:
+	- Ring of Utility (NGUs, AT) - useful through the end of Normal
+	- Dorky Glasses (NGUs, wandoos) - useful through early Evil
+	- Badly Drawn Gun (augment speed) - useful until late Chapter 5
+	- Badly Drawn Smiley Face (AT) - useful until late Chapter 5
+	- Stealthiest (NGUs) - useful until late Chapter 5
 
 ## Adventure Zones
 Prioritize finishing any set bonuses you haven’t completed yet (especially Pissed-Off Key)   

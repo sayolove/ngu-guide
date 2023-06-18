@@ -37,7 +37,7 @@ For most other one-time purchases, buy when their cost is less than 10% of your 
 - Auto-Merge starts with a 1 hour base cooldown, so it’s not as great as it sounds
 
 ## Items to Keep
-Note: This is NOT an exhaustive list of good items or the only items to keep. These are just items obtainable in Chapter 2 that may come in handy in future chapters. Generally, any item with a unique special bonus (AT / wandoos / respawn / cooldown / NGUs) is likely worth keeping.
+Note: This is NOT an exhaustive list of good items or the only items to keep. These are just items obtainable in this chapter that may come in handy in future chapters. Generally, any item with a unique special bonus (AT / wandoos / respawn / cooldown / NGUs) is likely worth keeping.
 - Definitely Keep to next chapter (unique specials):
     - Sands of Time (cooldown)
     - King's Circle Amulet of Helping Random Stuff (AT/wandoos)
@@ -57,6 +57,9 @@ Note: This is NOT an exhaustive list of good items or the only items to keep. Th
     - Sinusoidal Wave
     - A Beanie
     - The Pen-Is
+
+- Should I keep the GRB set for Cooking?
+	- No, Cooking is a filler stat to nerf the GRB set by making its best specials harder to reach. Cooking does not provide any benefit and keeping the gear would only take up item slots.
 
 ## Unlockable Mechanics
 

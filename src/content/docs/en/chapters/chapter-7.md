@@ -131,6 +131,21 @@ Finish up any previous lists first. By this point, you should have a general und
 - Mayo Generators provide negligible value to mayo speed, only good for QoL
     - It’s more efficient to buy multiple infusers than buying Mayo Generators
 
+## Items to Keep
+Note: This is NOT an exhaustive list of good items or the only items to keep. These are just items obtainable in this chapter that may come in handy in future chapters. Most E/M/R3/Wish items are not included in this list, use GO to keep track of items that fit in your loadouts. Generally, any item with a unique special bonus (AT / wandoos / respawn / cooldown / NGUs) is likely worth keeping.
+- Keep Forever:
+    - The Joker
+    - Rainbow Heart
+- Keep Temporarily:
+    - Keep any item with R3 or Hack Speed stats until it no longer fits in a full Hack loadout
+    - Blue Eyes Ultimate Chestplace - useful until mid Sad
+    - Credit Card (EM bars) - bars become a rarer stat
+    - Tentacle (R3 bars) - bars become a rarer stat
+    - Skip Card (NGU speed) - useful through early Sad
+    - Glove of Power (aug speed) - new best aug speed item
+    - Rad Mixtape - useful through early Sad
+
+
 ## Adventure Zones
 - T9 LRB: Stay in LRB until 24 T9v1 kills for T9v1 AK. Resume 24h RB’s, max T9 set ASAP
     - T9 gear is very strong, giving great hack/wish bonuses. Head gives strong Gold Drops
