@@ -96,7 +96,7 @@ Note: This is NOT an exhaustive list of good items or the only items to keep. Th
     - Keep any item with R3 or Hack Speed stats until it no longer fits in a full Hack loadout
     - Keep any item with NGU speed until it no longer fits in a NGU loadout
     - Keep bar items for a while because cap times without them will get very long
-    - Bread Bowl Helmet + Vinyl Record Shard might be holding onto while you need them to reach EM cap hardcap
+    - Bread Bowl Helmet + Vinyl Record Shard might be worth holding onto while you need them to reach EM cap hardcap
 
 ## Adventure Zones
 Adapted from [Deceptive Thinker’s SAD strategy](https://docs.google.com/document/d/14rsevmwHKHwwIfbKknc6yAjOlglOFXbw7qr6GhMNdnM/edit)

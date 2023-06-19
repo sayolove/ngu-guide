@@ -118,7 +118,7 @@ Starting from Titan 6, Titans will have 4 versions: Easy (v1), Normal (v2), Hard
 Mandatory (cannot enter Evil without satisfying all the below)
 - T6v4 defeated once
 - Boss 300 defeated once
-- 1m% in Attack Boost from Rich Jerks/Perks/Quirks combined
+- 1m% in Attack Boost from Rich Jerks/Perks combined
 	- Typically obtained with 100k Rich Jerks (~300k EXP), 500% Rich Perks (40 PP), and the Newbie Stat Perk (1 PP)
 
 Highly Recommended (wait until having these before going to Evil)
