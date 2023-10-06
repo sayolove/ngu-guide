@@ -169,10 +169,10 @@ Ideally, you want to obtain a CCoD as soon as possible to utilize the E/M specia
 
 ### Post-CBlock1 Perks/Priority
 After you finish CBlock1, Yggdrasil starts to become a lot more important. After getting Pom 24 in next chapter, your big seed income you’re growing will be invested into FoK, which scales off both NGU Yggdrasil and EXP, and has multiple modifiers from ITOPOD Perks, to become a huge source of EXP to push your progression further. It’s finally time for Magic to be important.
-- I Want Your Seeds ;)
-- The First Harvest’s The Best
-- Fruit of Knowledge Sucks, 1/5
-- Fruit of Knowledge STILL sucks, 1/5
+- (24) I Want Your Seeds ;)
+- (51) The First Harvest’s The Best
+- (19) Fruit of Knowledge Sucks, 1/5
+- (20) Fruit of Knowledge STILL sucks, 1/5
 
 ### Badly Drawn World (BDW) / Boring-Ass Earth (BAE)
 - After T5, there are two adventure zones before the next Titan (T5 → BDW → BAE → T6)
