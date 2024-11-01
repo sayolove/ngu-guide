@@ -189,7 +189,7 @@ Killing T7 drops Incriminating Evidence, which can be consumed to unlock R3 and 
 
 ### CBlock 3
 - Prep: Do one day of prep after maxing Incriminating Evidence
-    - Stat Sheets: [PudimAzul](https://cdn.discordapp.com/attachments/541988319421005864/981752366317576245/unknown.png), [Grumia](https://cdn.discordapp.com/attachments/886111721041829941/907199794466918400/Grumiacblockt7v2.png) (if you’re only behind in normal NGU, don’t delay)
+    - Stat Sheets: [PudimAzul](https://cdn.discordapp.com/attachments/976311286721839104/1275560512536707082/image.png?ex=6725ea8c&is=6724990c&hm=afc1fbdec8835e8abb7cbd8f89cc1f7b04fec06bab76de3272687ab85ee3aa1f&), [Grumia](https://cdn.discordapp.com/attachments/886111721041829941/907199794466918400/Grumiacblockt7v2.png?ex=6725f0a5&is=67249f25&hm=1a6ed8d123f2372f203923f34fd1e1c5c05a52512329c75334fdd8afe95f6e38&) (if you’re only behind in normal NGU, don’t delay)
 - Challenge List:
     - All 100 Level, No Aug, and Basic Challenges
     - Troll 1-2 (1 is mandatory, 2 is strongly recommended but optional)
