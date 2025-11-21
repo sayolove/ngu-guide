@@ -22,7 +22,7 @@ description: "Adventure Zones"
 | [A Very Strange Place](https://ngu-idle.fandom.com/wiki/A_Very_Strange_Place)           | 90      | [Gaudy Set](https://ngu-idle.fandom.com/wiki/Gaudy_(set))             | 28k/18k      | 48k/38k                       |
 | [Mega Lands](https://ngu-idle.fandom.com/wiki/Mega_Lands)                               | 100     | [Mega Set](https://ngu-idle.fandom.com/wiki/Mega_(set))               | 125k/60k     | 265k/145k                     |
 | [The Beardverse](https://ngu-idle.fandom.com/wiki/The_Beardverse)                       | 108     | [Beardverse Set](https://ngu-idle.fandom.com/wiki/Beardverse_(set))   | 1.3M/550k    | 2.5M/1.8M                     |
-| [Badly Drawn World](https://ngu-idle.fandom.com/wiki/Badly_Drawn_World)                 | 116     | [Badly Drawn Set](https://ngu-idle.fandom.com/wiki/Badly_Drawn_(set)) | 18M/11M      | 45M/35M                       |
+| [Badly Drawn World](https://ngu-idle.fandom.com/wiki/Badly_Drawn_World)                 | 116     | [Badly Drawn Set](https://ngu-idle.fandom.com/wiki/Badly_Drawn_(set)) | 18M/11M      | 45M/25M                       |
 | [Boring-Ass Earth](https://ngu-idle.fandom.com/wiki/Boring-Ass_Earth)                   | 124     | [Stealth Set](https://ngu-idle.fandom.com/wiki/Stealth_(set))         | 180M/90M     | 360M/270M                     |
 | [Chocolate World](https://ngu-idle.fandom.com/wiki/Chocolate_World)                     | 137     | [Choco Set](https://ngu-idle.fandom.com/wiki/Choco_(set))             | 70B/50B      | 150B/90B <br> (BM: 400B/170B) |
 
