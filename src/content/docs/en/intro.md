@@ -49,3 +49,4 @@ If you have any feedback to provide, including suggested changes, please fill ou
 - V1.1 - 01/07/2023: Deceptive Thinker's Sad update
 - V2.0 - 03/03/2023: Website public release
 - V2.1 - 06/18/2023: Jetski's 'Items to Keep' update
+- V2.2 - 03/17/2026: Image modal update, fixed broken image links

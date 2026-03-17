@@ -3,6 +3,8 @@
   "compilerOptions": {
     "jsx": "preserve",
     "skipLibCheck": true,
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    "importsNotUsedAsValues": "remove",
+    "verbatimModuleSyntax": true
   }
 }

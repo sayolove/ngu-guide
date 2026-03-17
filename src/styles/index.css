@@ -426,3 +426,57 @@ h2.heading {
 .current-header-link a {
 	color: var(--theme-text);
 }
+
+/* Image viewer modal */
+.content img {
+	cursor: zoom-in;
+}
+
+#image-modal-overlay {
+	position: fixed;
+	inset: 0;
+	background: rgba(0, 0, 0, 0.85);
+	z-index: 1000;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	opacity: 0;
+	pointer-events: none;
+	transition: opacity 150ms ease;
+}
+
+#image-modal-overlay.open {
+	opacity: 1;
+	pointer-events: auto;
+}
+
+#image-modal-img {
+	max-width: 90vw;
+	max-height: 90vh;
+	object-fit: contain;
+	border-radius: 4px;
+	cursor: default;
+	background-color: white;
+	padding: 0.5rem;
+}
+
+#image-modal-close {
+	position: fixed;
+	top: 1rem;
+	right: 1rem;
+	background: transparent;
+	border: none;
+	color: white;
+	font-size: 2rem;
+	line-height: 1;
+	padding: 0.25rem 0.5rem;
+	cursor: pointer;
+	border-radius: 4px;
+	z-index: 1001;
+}
+
+#image-modal-close:hover,
+#image-modal-close:focus {
+	background: rgba(255, 255, 255, 0.15);
+	outline: 2px solid white;
+}

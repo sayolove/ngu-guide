@@ -216,7 +216,11 @@ Note: This is NOT an exhaustive list of good items or the only items to keep. Th
 
 ### CBlock 4
 - After obtaining 1 of each Typo item, do a little bit of prep, then jump into CBlock 4
-    - Prep Sheets from Discord players: [dcnairb](https://cdn.discordapp.com/attachments/698513550460846111/1013910421528379392/cb4_guide_v2.png), [Thaunatas](https://cdn.discordapp.com/attachments/698513550460846111/1014025603109892126/unknown.png), [goplayer7](https://cdn.discordapp.com/attachments/698513550460846111/1013912977184919732/goplayer_cblock4.PNG)
+    - Prep Sheets from Discord players:
+
+| dcnairb | Thaunatas | goplayer7 |
+| :-----: | :-------: | :-------: |
+| ![dcnairb CB4 Prep Sheet](/ngu-guide/6dcnairb.png) | ![Thaunatas CB4 Prep Sheet](/ngu-guide/6thau.png) | ![goplayer7 CB4 Prep Sheet](/ngu-guide/6go.png) |
 - Challenge List (lists the final completion number for each challenge type):
     - Any challenges you missed from CBlock 3
     - NoRB 10 (only 8 are necessary to get T9’s timer down to 1 hour)
