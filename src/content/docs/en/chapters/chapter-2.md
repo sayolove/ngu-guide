@@ -140,8 +140,8 @@ Unlocked by defeating Boss 66
 
 ### The 2D Universe
 Unlocked by defeating Boss 74, drops Energy-focused gear set
-Once you can kill enemies quickly, 2D becomes the next best boost zone after Sky
-At 2D idle, focus all your boosts into the Infinity Cube until you reach Tier 1
+- Once you can kill enemies quickly, 2D becomes the next best boost zone after Sky
+- At 2D idle, focus all your boosts into the Infinity Cube until you reach Tier 1
 
 ### Ancient Battlefield
 Unlocked by defeating Boss 82, set has both Energy and Magic
