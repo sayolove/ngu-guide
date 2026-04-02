@@ -48,6 +48,7 @@ description: "Dictionary of jargon"
 - eNGU - Energy NGU or Evil NGU - May refer to Energy NGUs or Evil NGUs
 - EPow - Energy Power
 - Equipment - The items that you are wearing in Inventory, dropped from fighting enemies in Adventure Mode
+- EV - Evilverse
 - Evil - Evil Difficulty
 - EXP - Experience Points
 
@@ -126,6 +127,7 @@ description: "Dictionary of jargon"
 - Online - When the game is open and being actively played
 
 ## P
+- PPPL - Pretty Pink Princess Land
 - PAWGs - An acronym for the Challenge NGU’s: Power Augments Wandoos Gold
 - P:C:B - Power:Cap:Bars - Ratio used for EXP spending on Power vs Cap vs Bars
 - PP - Perk Points - A currency gained by defeating enemies in the ITOPOD. Can be exchanged for Perks in ITOPOD Perks
