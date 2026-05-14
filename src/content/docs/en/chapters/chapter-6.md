@@ -199,7 +199,8 @@ Note: This is NOT an exhaustive list of good items or the only items to keep. Th
 - During this time, you want to start preparing for your first Hack Day by buying only R3
 - You want to have at least 50 R3 power (with cap/bars in 4/150k/1 ratio) before HD1
 - Nowadays, most people manage to reach 75-80 R3 Power for HD1
-- T8v1 → (3 weeks) → v2 → (2 weeks) → Typo Snipe → CBlock 4 → Hack Day 1
+- Standard path: T8v1 → (3 weeks) → v2 → (2 weeks) → Typo Snipe → CBlock 4 → Hack Day 1
+- Alternative path (see CBlock 4 below): T8v1 max → CBlock 4 → Typo Wall → v2 → Typo Snipe → HD1
 
 ### v2
 - Suggested stats: 39 Quin / 15 Quin (39e18 / 15e18) P/T
@@ -215,6 +216,10 @@ Note: This is NOT an exhaustive list of good items or the only items to keep. Th
     - Starting challenges will also reset your AT / Temp Beards / Banks, meaning you’d have to climb back up to Typo to get Typo gear for HD1
 
 ### CBlock 4
+
+There are two approaches to this CBlock. The standard path does CBlock 4 after sniping Typo for better gear. The alternative path does it right after maxing T8v1 to get the rewards earlier, at the cost of slightly weaker stats.
+
+#### Standard Path (Post-Typo Snipe)
 - After obtaining 1 of each Typo item, do a little bit of prep, then jump into CBlock 4
     - Prep Sheets from Discord players:
 
@@ -223,17 +228,42 @@ Note: This is NOT an exhaustive list of good items or the only items to keep. Th
 | ![dcnairb CB4 Prep Sheet](/ngu-guide/6dcnairb.png) | ![Thaunatas CB4 Prep Sheet](/ngu-guide/6thau.png) | ![goplayer7 CB4 Prep Sheet](/ngu-guide/6go.png) |
 - Challenge List (lists the final completion number for each challenge type):
     - Any challenges you missed from CBlock 3
-    - NoRB 10 (only 8 are necessary to get T9’s timer down to 1 hour)
+    - NoRB 10 (only 8 are necessary to get T9's timer down to 1 hour)
     - Troll 5
     - NoNGU 7
     - NoEQ 5
-    - Blinds: As many as you want to do. They’re fast and the reward is great
+    - Blinds: As many as you want to do. They're fast and the reward is great
     - 24H: As many as you want to do
     - NoTM: As many as you want to do
 - The important challenges are Troll 5 and NoNGU 7, which provide Hack Speed for HD1
 - Recommended Loadout: EM Bars are very important for this CBlock to get Magic Beards working ASAP. Wear your best Aug item (Meeple), your best Wandoos item (Cocktail), then as much EMPC while maintaining a 3 minute cap time.
 
 ![CBlock 4 Loadout](/ngu-guide/cblock4gear.png)
+
+#### Alternative: Early CBlock (Post-T8v1 Max)
+
+The Typo wall is mostly an EXP wall for R3 resources — you'll spend every drop of EXP on R3. Since the wall takes roughly a month and you'll be doing the same daily rebirth routine anyway, doing the CBlock right after maxing T8v1 won't impede your progression. Your banks will recover within a week, and the wall is far longer than that. The main tradeoff is slightly lower hack levels — NGU levels barely matter since NoNGU challenges don't use them.
+
+**Prep:** After maxing T8v1, spend a day prepping. Use GO to optimize for NGU and Hacks (full accessories), focusing on leveling Evil NGUs and hacks (PAWG + Power B). Ignore NGU Number and Time Machine — they're nearly useless in challenges. For hacks, prioritize A/D, Aug, Blood, TM, and Number. Do hacks by milestones, prioritizing everything except TM (under 1 hour).
+
+**Challenge List:**
+- 5 No Equipment (MUST)
+- 6 No NGU (MUST)
+- Troll 5 (MUST)
+- 6-10 Blind (as many as you can manage)
+- 5 No Time Machine (optional)
+- 4 24HR (good AP)
+- 10 No Rebirth
+
+**Rewards:**
+- 2.3x hack speed boost for the entire Typo wall
+- Early guffin slot (over 2 weeks early)
+- More AP for earlier purchases
+- Daycare speed boost from Blind — accelerates A6, which is very powerful
+
+**Drawback:** Your Normal NGU is about 10% weaker (worse Hackday hacking), and TC5 is quite painful at these stats.
+
+Reference Evil NGU: around 5M at best (a full day of Beast Mode), with hacks lower due to starting earlier. Optimize for magic bars, Aug, Wandoos, Gold Drop, and EMPC for remaining accessory slots. Aim for fast magic bar fill time — preferably under 3 minutes.
 
 ### Hack Day 1
 - The day has finally arrived! Plan out your Hackday using the [Guide: Hackday Planning Guide](/ngu-guide/en/guides/hackday)

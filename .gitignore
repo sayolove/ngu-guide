@@ -22,4 +22,5 @@ pnpm-debug.log*
 
 # IDE
 .vscode/
-Claude.md
+CLAUDE.md
+AGENTS.md

@@ -40,10 +40,19 @@ To Yeet or not to Yeet?
 - Should I buy the mayo fruit auto-activates?
     - No, they’re too expensive and provide tiny mayo progress. You’ll buy them in Sad.
 
+## BEUCBlock
+The Final CBlock
+- After maxing the T9v1 set, jump right into the last Evil CBlock
+    - No prep required, you already have the stats. Start whenever you have 1-2 days free
+    - If you really want to prep, get Basic Training quirk/wish and A/D Hack Milestone reducer
+- Challenge List: Finish all Trolls, NoNGUs, Blinds. Complete up to 5 24Hs and NoTMs
+- Doing the CBlock now, before farming Nuts/BEUC, gives you the rewards earlier — including a free wish slot for 30% overall wish speed — without delaying anything meaningful. Your banks recover within a week, and Nuts/BEUC will likely take days anyway.
+- After finishing BEUCBlock, start farming Nuts and BEUC (see below)
+
 ## T9 Set Bonus (BEUC)
-- Maxing the T9 set unlocks a secret drop from T9: ‘Sack of the Exile’ (AKA ‘Nuts’)
+- After BEUCBlock, max the T9 set to unlock a secret drop from T9: 'Sack of the Exile' (AKA 'Nuts')
     - Nuts have a flat 2% DC from T9, not affected by DC modifiers
-- Once you’ve gotten Nuts, assemble the parts of the Exile (+ Nuts) in the top-left of Page 1
+- Once you've gotten Nuts, assemble the parts of the Exile (+ Nuts) in the top-left of Page 1
     - Go back to the Sewers and ctrl+click the Nuts to unlock another secret drop: BEUC
     - BEUC has ¼ of the DC of T9v4 drops or 1/10th of the DC of T9v2 drops
     - DC is affected by DC modifiers. Equipping the Ring/Cursor in your main loadout can help with BEUC DC while being a minimal wish/ngu speed loss.
@@ -52,22 +61,14 @@ To Yeet or not to Yeet?
 - Both the Nuts and BEUC can take a long time to drop, expect each to take a few days
 - You can double check that you have the drop unlocked by going to the Item List
     - Nuts, hovering over any T9 gear should show that the set bonus is complete
-    - BEUC: hovering over Nuts: ‘SUPER SECRET EXILE DROP IS UNLOCKED’
-- While waiting, you can start preparing for the upcoming CBlock/Hackdays:
-    - For CBlock: A/D Milestone Reducers, Basic Training Quirk/Wish
+    - BEUC: hovering over Nuts: 'SUPER SECRET EXILE DROP IS UNLOCKED'
+- While waiting, you can start preparing for the upcoming BEUCDay/Hackdays:
     - For Hackday: R3 Generic Perks/Quirks/Wishes
-
-## BEUCBlock
-The Final CBlock
-- After obtaining the BEUC, it’s recommended to jump right into the last Evil CBlock
-- No prep required, you already have the stats. Start whenever you have 1-2 days free
-- If you really want to prep, get Basic Training quirk/wish and A/D Hack Milestone reducer
-- Challenge List: Finish all Trolls, NoNGUs, Blinds. Complete up to 5 24Hs and NoTMs
-- After finishing BEUCBlock, start a [hackday](/ngu-guide/en/guides/hackday) (BEUCDay)
+- Once you've obtained the BEUC, start a [hackday](/ngu-guide/en/guides/hackday) (BEUCDay)
 
 ## Post-BEUC
 - v2 → v3 → Rad Idle → RadDay → v4 → Sad
-- After BEUCDay, it’s back to 24 hour rebirths for most of the rest of the chapter
+- After BEUCDay, it's back to 24 hour rebirths for most of the rest of the chapter
     - Quadruple E/M power to 24m/8m, fixing your base ratio to 4:150k:1
     - Then only R3 until RadDay (Hackday 4)
     - Switch tags to Wish/Adv, continue casting meh+ Adv/Wish/Hack. Use 3rd tag on Hack
@@ -75,7 +76,7 @@ The Final CBlock
 - Try to push at least one boss per rebirth, you need to defeat Boss 300 to unlock Sad
 - When you get a second BEUC drop, put in daycare to help get extra levels
 - Ygg: Finish last non-mayo fruits, then level mayo fruits equally. Mayo output is very low.
-- Diggers: Don’t forget them. You shouldn’t need to ever run Beard diggers again.
+- Diggers: Don't forget them. You shouldn't need to ever run Beard diggers again.
 
 ### Pendants and Looties
 - As you approach A7P/Supreme Intelligence Looty (SIL), generally advised to upgrade asap
@@ -164,6 +165,10 @@ Note: This is NOT an exhaustive list of good items or the only items to keep. Th
 - v4 LRB: Pop E/M/R3 betas and push to the End of Evil
     - v4 fight adds Life Drain, which makes the Exile deal 2x damage and heal itself 10%
     - Drops: Black Lotus is a very strong wish item, Energy Buster is a very strong hack item
+
+    **Alternative: Combined RadHD + v4 LRB**
+    If you started your RadDay (Hackday 4) shortly after sniping v3, the gap between finishing RadHD and being ready for v4 LRB is only about 5 days. Instead of doing two separate LRBs (Rad LRB → 24H RBs → v4 LRB), you can merge them. After successfully sniping T9v3, start investing in Adventure stats (buy power with EXP) while continuing 24 hour rebirths. Once you hit at least 2e25 power, start the combined RadHD-T9v4 LRB. This saves potions and avoids the bank destruction of reverting to 24 hour rebirths between LRBs. The only concern is Number growth, which isn't an issue since T9v4 and Boss 300 are separate requirements for entering Sadistic.
+
     - Rust killing 9v4 way under recommended stats:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sa-5RAHM0-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -38,7 +38,9 @@ export const SIDEBAR: Sidebar = {
 			{ text: '5: Evil-IDP', link: 'ngu-guide/en/chapters/chapter-5' },
 			{ text: '6: T8-JRPG', link: 'ngu-guide/en/chapters/chapter-6' },
 			{ text: '7: T9', link: 'ngu-guide/en/chapters/chapter-7' },
-			{ text: '8: Sadistic', link: 'ngu-guide/en/chapters/chapter-8' },
+			{ text: '8: Sad I — T10', link: 'ngu-guide/en/chapters/chapter-8' },
+			{ text: '9: Sad II — T11', link: 'ngu-guide/en/chapters/chapter-9' },
+			{ text: '10: Sad III — THE END', link: 'ngu-guide/en/chapters/chapter-10' },
 		],
 		'Mechanics': [
 			{ text: 'General Info', link: 'ngu-guide/en/mechanics/general-info' },
@@ -67,6 +69,7 @@ export const SIDEBAR: Sidebar = {
 		'Guides': [
 			{ text: 'Gear Optimizer (GO)', link: 'ngu-guide/en/guides/go-guide' },
 			{ text: 'Hackday Prep', link: 'ngu-guide/en/guides/hackday' },
+			{ text: 'Save Scumming', link: 'ngu-guide/en/guides/save-scum' },
 		],
 		'Reference Lists': [
 			{ text: 'Boss Fight Unlocks', link: 'ngu-guide/en/lists/boss-list' },
